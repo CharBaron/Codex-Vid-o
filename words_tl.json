@@ -1,0 +1,116 @@
+[
+  {
+    "disp": "Dans",
+    "start": 0.0,
+    "end": 0.3,
+    "key": false
+  },
+  {
+    "disp": "cette",
+    "start": 0.3,
+    "end": 0.5,
+    "key": false
+  },
+  {
+    "disp": "expérience,",
+    "start": 0.5,
+    "end": 0.96,
+    "key": false
+  },
+  {
+    "disp": "1",
+    "start": 1.32,
+    "end": 1.42,
+    "key": true
+  },
+  {
+    "disp": "dollar",
+    "start": 1.42,
+    "end": 1.7,
+    "key": true
+  },
+  {
+    "disp": "convainc",
+    "start": 1.7,
+    "end": 2.08,
+    "key": true
+  },
+  {
+    "disp": "mieux",
+    "start": 2.08,
+    "end": 2.28,
+    "key": false
+  },
+  {
+    "disp": "que",
+    "start": 2.28,
+    "end": 2.46,
+    "key": false
+  },
+  {
+    "disp": "20.",
+    "start": 2.46,
+    "end": 2.7,
+    "key": true
+  },
+  {
+    "disp": "Imagine,",
+    "start": 3.26,
+    "end": 3.74,
+    "key": false
+  },
+  {
+    "disp": "on",
+    "start": 4.18,
+    "end": 4.52,
+    "key": false
+  },
+  {
+    "disp": "te",
+    "start": 4.52,
+    "end": 4.62,
+    "key": false
+  },
+  {
+    "disp": "fait",
+    "start": 4.62,
+    "end": 4.68,
+    "key": false
+  },
+  {
+    "disp": "tourner",
+    "start": 4.68,
+    "end": 4.96,
+    "key": false
+  },
+  {
+    "disp": "des",
+    "start": 4.96,
+    "end": 5.06,
+    "key": false
+  },
+  {
+    "disp": "petites",
+    "start": 5.06,
+    "end": 5.3,
+    "key": false
+  },
+  {
+    "disp": "chevilles",
+    "start": 5.3,
+    "end": 5.7,
+    "key": false
+  },
+  {
+    "disp": "pendant",
+    "start": 5.7,
+    "end": 5.96,
+    "key": false
+  },
+  {
+    "disp": "une",
+    "start": 5.96,
+    "end": 6.2,
+    "key": false
+  }
+]

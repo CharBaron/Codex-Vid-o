@@ -1,0 +1,39 @@
+name: Test rendu Le Polymath
+on:
+  push:
+    paths:
+      - '.github/workflows/render-test.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: polymath-render-test
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Installer FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Installer les dépendances
+        run: python -m pip install -r requirements.txt
+      - name: Rendre et contrôler six secondes
+        env:
+          OPENBLAS_NUM_THREADS: '1'
+          OMP_NUM_THREADS: '1'
+        run: python run_test.py
+      - name: Récupérer la vidéo et le contrôle
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-polymath
+          path: |
+            out/test-polymath.mp4
+            qa/result.json
+          if-no-files-found: error
+          retention-days: 3

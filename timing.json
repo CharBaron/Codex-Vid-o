@@ -1,0 +1,57 @@
+{
+  "duration": 6,
+  "fps": 30,
+  "shots": [
+    [
+      0,
+      "duel",
+      {
+        "rays": true,
+        "tr": "impact"
+      }
+    ],
+    [
+      0.6,
+      "money",
+      {
+        "value": 1,
+        "label": "1 DOLLAR",
+        "tr": "whip"
+      }
+    ],
+    [
+      1.2,
+      "money",
+      {
+        "value": 20,
+        "label": "20 DOLLARS",
+        "bg": "red",
+        "direction": -1
+      }
+    ],
+    [
+      1.8,
+      "duel",
+      {
+        "rays": true,
+        "tr": "impact"
+      }
+    ],
+    [
+      3,
+      "brain",
+      {
+        "stamp": "BON CHOIX ?",
+        "bg": "gold"
+      }
+    ],
+    [
+      4.5,
+      "pegs",
+      {
+        "bg": "black",
+        "tr": "whip"
+      }
+    ]
+  ]
+}
