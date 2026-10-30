@@ -1,0 +1,660 @@
+{
+  "duration": 59.8,
+  "voice_duration": 59.63,
+  "fps": 30,
+  "domain": "Psychologie",
+  "hook_lines": [
+    "1 $ CONVAINC MIEUX",
+    "QUE 20 $"
+  ],
+  "hook_duration": 3,
+  "source_short": "Festinger & Carlsmith · 1959",
+  "shots": [
+    [
+      0,
+      "duel",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      0.8333333333333334,
+      "money",
+      {
+        "value": 1,
+        "label": "1 DOLLAR",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      1.6666666666666667,
+      "money",
+      {
+        "value": 20,
+        "label": "20 DOLLARS",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      2.466666666666667,
+      "duel",
+      {
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      3.3,
+      "pegs",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      4.433333333333334,
+      "pegs",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      5.566666666666666,
+      "subject",
+      {
+        "img": "student",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      6.7,
+      "subject",
+      {
+        "img": "student",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      7.833333333333333,
+      "pegs",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      8.966666666666667,
+      "mask",
+      {
+        "label": "PASSIONNANT ?",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      10.066666666666666,
+      "mask",
+      {
+        "label": "PASSIONNANT ?",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      11.166666666666666,
+      "subject",
+      {
+        "img": "student",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      12.233333333333333,
+      "money",
+      {
+        "value": 1,
+        "label": "1 DOLLAR",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      13.333333333333334,
+      "money",
+      {
+        "value": 1,
+        "label": "1 DOLLAR",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      14.4,
+      "money",
+      {
+        "value": 20,
+        "label": "20 DOLLARS",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      15.466666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "TON VRAI AVIS ?",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      16.433333333333334,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "TON VRAI AVIS ?",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      17.366666666666667,
+      "subject",
+      {
+        "img": "student",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      18.3,
+      "result",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      19.4,
+      "result",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      20.5,
+      "result",
+      {
+        "zoom": 1,
+        "direction": 1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      21.6,
+      "money",
+      {
+        "value": 1,
+        "label": "PLUS INTÉRESSANTE",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      22.7,
+      "money",
+      {
+        "value": 1,
+        "label": "PLUS INTÉRESSANTE",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      23.8,
+      "year",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "white",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      24.933333333333334,
+      "year",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "white",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      26.1,
+      "subject",
+      {
+        "img": "philo_cut",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      27.233333333333334,
+      "money",
+      {
+        "value": 20,
+        "label": "UNE BONNE EXCUSE",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      28.5,
+      "money",
+      {
+        "value": 20,
+        "label": "UNE BONNE EXCUSE",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      29.766666666666666,
+      "mask",
+      {
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      31.033333333333335,
+      "mask",
+      {
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      32.3,
+      "money",
+      {
+        "value": 1,
+        "label": "UNE PETITE JUSTIFICATION",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      33.46666666666667,
+      "money",
+      {
+        "value": 1,
+        "label": "UNE PETITE JUSTIFICATION",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      34.63333333333333,
+      "brain",
+      {
+        "stamp": "ÇA COINCE !",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "gold",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      35.8,
+      "conflict",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "red",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      36.93333333333333,
+      "conflict",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "red",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      38.06666666666667,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      39.2,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      40.333333333333336,
+      "brain",
+      {
+        "stamp": "PAS SI NUL !",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "gold",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      41.6,
+      "brain",
+      {
+        "stamp": "PAS SI NUL !",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "gold",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      42.9,
+      "brain",
+      {
+        "stamp": "PAS SI NUL !",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "gold",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      44.166666666666664,
+      "concept",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      45.43333333333333,
+      "concept",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      46.733333333333334,
+      "conflict",
+      {
+        "zoom": 1,
+        "direction": 1,
+        "bg": "red",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      48.03333333333333,
+      "conflict",
+      {
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "red",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      49.333333333333336,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS UNE LOI",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      50.233333333333334,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS UNE LOI",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      51.166666666666664,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS UNE LOI",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      52.06666666666667,
+      "choice",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      53.1,
+      "choice",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      54.1,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      55.1,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      56.13333333333333,
+      "duel",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      57.333333333333336,
+      "money",
+      {
+        "value": 1,
+        "label": "LE MENSONGE À 1 $",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      58.56666666666667,
+      "duel",
+      {
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": true
+      }
+    ]
+  ],
+  "intentional_holds": [],
+  "voice": "Achird",
+  "music_offset": 7.41
+}

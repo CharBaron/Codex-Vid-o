@@ -1,0 +1,514 @@
+{
+  "duration": 59.6,
+  "voice_duration": 59.45325,
+  "fps": 30,
+  "domain": "Corps humain",
+  "hook_lines": [
+    "TON ŒIL A UNE",
+    "ZONE AVEUGLE"
+  ],
+  "hook_duration": 2.5,
+  "source_short": "Exploratorium · National Eye Institute",
+  "shots": [
+    [
+      0,
+      "subject",
+      {
+        "img": "eye",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      0.8333333333333334,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      1.6666666666666667,
+      "subject",
+      {
+        "img": "eye",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      2.5,
+      "subject",
+      {
+        "img": "mask",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      3.7666666666666666,
+      "subject",
+      {
+        "img": "mask",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      5.033333333333333,
+      "subject",
+      {
+        "img": "eye",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      6.266666666666667,
+      "subject",
+      {
+        "img": "eye",
+        "label": "LA TACHE AVEUGLE",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      7.533333333333333,
+      "subject",
+      {
+        "img": "eye",
+        "label": "LA TACHE AVEUGLE",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      8.766666666666667,
+      "blindspot",
+      {
+        "captions": false,
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      26.566666666666666,
+      "subject",
+      {
+        "img": "eye",
+        "label": "LES DEUX YEUX OUVERTS",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      27.333333333333332,
+      "subject",
+      {
+        "img": "eye",
+        "label": "LES DEUX YEUX OUVERTS",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      28.1,
+      "retina",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      29.2,
+      "retina",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      30.3,
+      "retina",
+      {
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      31.366666666666667,
+      "subject",
+      {
+        "img": "eye",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      32.46666666666667,
+      "subject",
+      {
+        "img": "eye",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      33.56666666666667,
+      "subject",
+      {
+        "img": "eye",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      34.666666666666664,
+      "retina",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      35.766666666666666,
+      "retina",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      36.9,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      38.03333333333333,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      39.13333333333333,
+      "retina",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      40.266666666666666,
+      "retina",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      41.36666666666667,
+      "subject",
+      {
+        "img": "eye",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      42.5,
+      "subject",
+      {
+        "img": "eye",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      43.63333333333333,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      44.8,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      46.0,
+      "retina",
+      {
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      47.2,
+      "retina",
+      {
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      48.4,
+      "subject",
+      {
+        "img": "mask",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      49.5,
+      "subject",
+      {
+        "img": "mask",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      50.6,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      51.7,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      52.8,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "VOIR, C’EST INTERPRÉTER",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      53.733333333333334,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "VOIR, C’EST INTERPRÉTER",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      54.63333333333333,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "VOIR, C’EST INTERPRÉTER",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      55.56666666666667,
+      "subject",
+      {
+        "img": "eye",
+        "label": "LA CROIX A DISPARU ?",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      56.43333333333333,
+      "subject",
+      {
+        "img": "eye",
+        "label": "LA CROIX A DISPARU ?",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      57.266666666666666,
+      "subject",
+      {
+        "img": "eye",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      58.06666666666667,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      58.833333333333336,
+      "subject",
+      {
+        "img": "eye",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ]
+  ],
+  "intentional_holds": [
+    [
+      8.76,
+      26.56
+    ]
+  ],
+  "voice": "Achird",
+  "music_offset": 7.41
+}

@@ -1,0 +1,1595 @@
+[
+  {
+    "disp": "Il",
+    "line": 0,
+    "key": false,
+    "i": 0,
+    "start": 0,
+    "end": 0.44,
+    "exact": 1.0
+  },
+  {
+    "disp": "y",
+    "line": 0,
+    "key": false,
+    "i": 1,
+    "start": 0.44,
+    "end": 0.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "a",
+    "line": 0,
+    "key": false,
+    "i": 2,
+    "start": 0.48,
+    "end": 0.51,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 0,
+    "key": false,
+    "i": 3,
+    "start": 0.485,
+    "end": 0.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "zone",
+    "line": 0,
+    "key": false,
+    "i": 4,
+    "start": 0.66,
+    "end": 0.84,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 0,
+    "key": false,
+    "i": 5,
+    "start": 0.84,
+    "end": 1.04,
+    "exact": 1.0
+  },
+  {
+    "disp": "ton",
+    "line": 0,
+    "key": false,
+    "i": 6,
+    "start": 1.04,
+    "end": 1.26,
+    "exact": 1.0
+  },
+  {
+    "disp": "œil",
+    "line": 0,
+    "key": false,
+    "i": 7,
+    "start": 1.26,
+    "end": 1.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "ne",
+    "line": 0,
+    "key": false,
+    "i": 8,
+    "start": 1.48,
+    "end": 1.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "voit",
+    "line": 0,
+    "key": false,
+    "i": 9,
+    "start": 1.66,
+    "end": 1.82,
+    "exact": 1.0
+  },
+  {
+    "disp": "pas.",
+    "line": 0,
+    "key": false,
+    "i": 10,
+    "start": 1.82,
+    "end": 2.04,
+    "exact": 1.0
+  },
+  {
+    "disp": "Et",
+    "line": 1,
+    "key": false,
+    "i": 11,
+    "start": 2.5,
+    "end": 2.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "pourtant,",
+    "line": 1,
+    "key": false,
+    "i": 12,
+    "start": 2.76,
+    "end": 3.08,
+    "exact": 1.0
+  },
+  {
+    "disp": "tu",
+    "line": 1,
+    "key": false,
+    "i": 13,
+    "start": 3.4,
+    "end": 3.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "ne",
+    "line": 1,
+    "key": false,
+    "i": 14,
+    "start": 3.52,
+    "end": 3.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "remarques",
+    "line": 1,
+    "key": false,
+    "i": 15,
+    "start": 3.6,
+    "end": 3.94,
+    "exact": 1.0
+  },
+  {
+    "disp": "généralement",
+    "line": 1,
+    "key": false,
+    "i": 16,
+    "start": 3.94,
+    "end": 4.46,
+    "exact": 1.0
+  },
+  {
+    "disp": "aucun",
+    "line": 1,
+    "key": false,
+    "i": 17,
+    "start": 4.46,
+    "end": 4.94,
+    "exact": 1.0
+  },
+  {
+    "disp": "trou",
+    "line": 1,
+    "key": false,
+    "i": 18,
+    "start": 4.94,
+    "end": 5.18,
+    "exact": 1.0
+  },
+  {
+    "disp": "dans",
+    "line": 1,
+    "key": false,
+    "i": 19,
+    "start": 5.18,
+    "end": 5.34,
+    "exact": 1.0
+  },
+  {
+    "disp": "l'image.",
+    "line": 1,
+    "key": false,
+    "i": 20,
+    "start": 5.34,
+    "end": 5.56,
+    "exact": 1.0
+  },
+  {
+    "disp": "On",
+    "line": 2,
+    "key": false,
+    "i": 21,
+    "start": 6.28,
+    "end": 6.54,
+    "exact": 1.0
+  },
+  {
+    "disp": "appelle",
+    "line": 2,
+    "key": false,
+    "i": 22,
+    "start": 6.54,
+    "end": 6.7,
+    "exact": 1.0
+  },
+  {
+    "disp": "ça",
+    "line": 2,
+    "key": false,
+    "i": 23,
+    "start": 6.7,
+    "end": 6.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 2,
+    "key": false,
+    "i": 24,
+    "start": 6.96,
+    "end": 7.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "tache",
+    "line": 2,
+    "key": false,
+    "i": 25,
+    "start": 7.28,
+    "end": 7.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "aveugle.",
+    "line": 2,
+    "key": true,
+    "i": 26,
+    "start": 7.59,
+    "end": 7.98,
+    "exact": 1.0
+  },
+  {
+    "disp": "Voici",
+    "line": 3,
+    "key": false,
+    "i": 27,
+    "start": 8.76,
+    "end": 9.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 3,
+    "key": false,
+    "i": 28,
+    "start": 9.2,
+    "end": 9.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "petite",
+    "line": 3,
+    "key": false,
+    "i": 29,
+    "start": 9.3,
+    "end": 9.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "expérience.",
+    "line": 3,
+    "key": false,
+    "i": 30,
+    "start": 9.5,
+    "end": 9.88,
+    "exact": 1.0
+  },
+  {
+    "disp": "Cache",
+    "line": 3,
+    "key": false,
+    "i": 31,
+    "start": 10.86,
+    "end": 11.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "ton",
+    "line": 3,
+    "key": false,
+    "i": 32,
+    "start": 11.02,
+    "end": 11.14,
+    "exact": 1.0
+  },
+  {
+    "disp": "œil",
+    "line": 3,
+    "key": false,
+    "i": 33,
+    "start": 11.148,
+    "end": 11.252,
+    "exact": 0.0
+  },
+  {
+    "disp": "gauche.",
+    "line": 3,
+    "key": false,
+    "i": 34,
+    "start": 11.262,
+    "end": 11.61,
+    "exact": 1.0
+  },
+  {
+    "disp": "Avec",
+    "line": 3,
+    "key": false,
+    "i": 35,
+    "start": 12.27,
+    "end": 12.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 3,
+    "key": false,
+    "i": 36,
+    "start": 12.4,
+    "end": 12.54,
+    "exact": 1.0
+  },
+  {
+    "disp": "droit,",
+    "line": 3,
+    "key": false,
+    "i": 37,
+    "start": 12.54,
+    "end": 12.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "fixe",
+    "line": 3,
+    "key": false,
+    "i": 38,
+    "start": 13.38,
+    "end": 13.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "seulement",
+    "line": 3,
+    "key": false,
+    "i": 39,
+    "start": 13.74,
+    "end": 14.1,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 3,
+    "key": false,
+    "i": 40,
+    "start": 14.1,
+    "end": 14.44,
+    "exact": 1.0
+  },
+  {
+    "disp": "point",
+    "line": 3,
+    "key": false,
+    "i": 41,
+    "start": 14.44,
+    "end": 14.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "à",
+    "line": 3,
+    "key": false,
+    "i": 42,
+    "start": 14.66,
+    "end": 14.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "gauche.",
+    "line": 3,
+    "key": false,
+    "i": 43,
+    "start": 14.96,
+    "end": 15.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "Approche",
+    "line": 4,
+    "key": false,
+    "i": 44,
+    "start": 16.4,
+    "end": 16.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "doucement",
+    "line": 4,
+    "key": false,
+    "i": 45,
+    "start": 16.76,
+    "end": 17.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "l'écran.",
+    "line": 4,
+    "key": false,
+    "i": 46,
+    "start": 17.24,
+    "end": 17.56,
+    "exact": 1.0
+  },
+  {
+    "disp": "À",
+    "line": 4,
+    "key": false,
+    "i": 47,
+    "start": 18.56,
+    "end": 18.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 4,
+    "key": false,
+    "i": 48,
+    "start": 18.66,
+    "end": 18.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "certaine",
+    "line": 4,
+    "key": false,
+    "i": 49,
+    "start": 18.76,
+    "end": 19.1,
+    "exact": 1.0
+  },
+  {
+    "disp": "distance,",
+    "line": 4,
+    "key": false,
+    "i": 50,
+    "start": 19.1,
+    "end": 19.36,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 4,
+    "key": false,
+    "i": 51,
+    "start": 20.04,
+    "end": 20.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "croix",
+    "line": 4,
+    "key": true,
+    "i": 52,
+    "start": 20.28,
+    "end": 20.62,
+    "exact": 1.0
+  },
+  {
+    "disp": "à",
+    "line": 4,
+    "key": false,
+    "i": 53,
+    "start": 20.62,
+    "end": 20.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "droite",
+    "line": 4,
+    "key": false,
+    "i": 54,
+    "start": 20.74,
+    "end": 20.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "peut",
+    "line": 4,
+    "key": false,
+    "i": 55,
+    "start": 20.96,
+    "end": 21.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "disparaître.",
+    "line": 4,
+    "key": true,
+    "i": 56,
+    "start": 21.22,
+    "end": 21.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "Garde",
+    "line": 5,
+    "key": false,
+    "i": 57,
+    "start": 22.6,
+    "end": 22.78,
+    "exact": 1.0
+  },
+  {
+    "disp": "les",
+    "line": 5,
+    "key": false,
+    "i": 58,
+    "start": 22.78,
+    "end": 22.92,
+    "exact": 1.0
+  },
+  {
+    "disp": "yeux",
+    "line": 5,
+    "key": false,
+    "i": 59,
+    "start": 22.92,
+    "end": 23.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "sur",
+    "line": 5,
+    "key": false,
+    "i": 60,
+    "start": 23.0,
+    "end": 23.14,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 5,
+    "key": false,
+    "i": 61,
+    "start": 23.14,
+    "end": 23.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "point.",
+    "line": 5,
+    "key": false,
+    "i": 62,
+    "start": 23.24,
+    "end": 23.38,
+    "exact": 1.0
+  },
+  {
+    "disp": "La",
+    "line": 5,
+    "key": false,
+    "i": 63,
+    "start": 24.2,
+    "end": 24.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "distance",
+    "line": 5,
+    "key": false,
+    "i": 64,
+    "start": 24.28,
+    "end": 24.64,
+    "exact": 1.0
+  },
+  {
+    "disp": "dépend",
+    "line": 5,
+    "key": false,
+    "i": 65,
+    "start": 24.64,
+    "end": 24.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "de",
+    "line": 5,
+    "key": false,
+    "i": 66,
+    "start": 24.9,
+    "end": 24.98,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 5,
+    "key": false,
+    "i": 67,
+    "start": 24.98,
+    "end": 25.06,
+    "exact": 1.0
+  },
+  {
+    "disp": "taille",
+    "line": 5,
+    "key": false,
+    "i": 68,
+    "start": 25.06,
+    "end": 25.16,
+    "exact": 1.0
+  },
+  {
+    "disp": "de",
+    "line": 5,
+    "key": false,
+    "i": 69,
+    "start": 25.16,
+    "end": 25.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "ton",
+    "line": 5,
+    "key": false,
+    "i": 70,
+    "start": 25.28,
+    "end": 25.4,
+    "exact": 1.0
+  },
+  {
+    "disp": "écran.",
+    "line": 5,
+    "key": false,
+    "i": 71,
+    "start": 25.4,
+    "end": 25.64,
+    "exact": 1.0
+  },
+  {
+    "disp": "Tu",
+    "line": 6,
+    "key": false,
+    "i": 72,
+    "start": 26.56,
+    "end": 26.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "peux",
+    "line": 6,
+    "key": false,
+    "i": 73,
+    "start": 26.66,
+    "end": 26.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "rouvrir",
+    "line": 6,
+    "key": false,
+    "i": 74,
+    "start": 26.82,
+    "end": 27.03,
+    "exact": 0.0
+  },
+  {
+    "disp": "les",
+    "line": 6,
+    "key": false,
+    "i": 75,
+    "start": 26.96,
+    "end": 27.1,
+    "exact": 1.0
+  },
+  {
+    "disp": "deux",
+    "line": 6,
+    "key": true,
+    "i": 76,
+    "start": 27.1,
+    "end": 27.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "yeux.",
+    "line": 6,
+    "key": false,
+    "i": 77,
+    "start": 27.22,
+    "end": 27.36,
+    "exact": 1.0
+  },
+  {
+    "disp": "Qu'est-ce",
+    "line": 7,
+    "key": false,
+    "i": 78,
+    "start": 28.1,
+    "end": 28.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "qui",
+    "line": 7,
+    "key": false,
+    "i": 79,
+    "start": 28.42,
+    "end": 28.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "s'est",
+    "line": 7,
+    "key": false,
+    "i": 80,
+    "start": 28.5,
+    "end": 28.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "passé ?",
+    "line": 7,
+    "key": false,
+    "i": 81,
+    "start": 28.6,
+    "end": 28.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "Au",
+    "line": 7,
+    "key": false,
+    "i": 82,
+    "start": 30.24,
+    "end": 30.33,
+    "exact": 1.0
+  },
+  {
+    "disp": "fond",
+    "line": 7,
+    "key": false,
+    "i": 83,
+    "start": 30.32,
+    "end": 30.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "de",
+    "line": 7,
+    "key": false,
+    "i": 84,
+    "start": 30.48,
+    "end": 30.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "l'œil,",
+    "line": 7,
+    "key": false,
+    "i": 85,
+    "start": 30.66,
+    "end": 30.86,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 7,
+    "key": false,
+    "i": 86,
+    "start": 31.44,
+    "end": 31.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "rétine",
+    "line": 7,
+    "key": true,
+    "i": 87,
+    "start": 31.5,
+    "end": 31.82,
+    "exact": 1.0
+  },
+  {
+    "disp": "capte",
+    "line": 7,
+    "key": false,
+    "i": 88,
+    "start": 31.82,
+    "end": 32.1,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 7,
+    "key": false,
+    "i": 89,
+    "start": 32.1,
+    "end": 32.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "lumière",
+    "line": 7,
+    "key": false,
+    "i": 90,
+    "start": 32.22,
+    "end": 32.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "grâce",
+    "line": 7,
+    "key": false,
+    "i": 91,
+    "start": 32.42,
+    "end": 32.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "à",
+    "line": 7,
+    "key": false,
+    "i": 92,
+    "start": 32.76,
+    "end": 32.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "des",
+    "line": 7,
+    "key": false,
+    "i": 93,
+    "start": 32.9,
+    "end": 33.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "cellules",
+    "line": 7,
+    "key": false,
+    "i": 94,
+    "start": 33.0,
+    "end": 33.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "spécialisées.",
+    "line": 7,
+    "key": false,
+    "i": 95,
+    "start": 33.28,
+    "end": 34.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "Mais",
+    "line": 8,
+    "key": false,
+    "i": 96,
+    "start": 34.66,
+    "end": 34.92,
+    "exact": 1.0
+  },
+  {
+    "disp": "à",
+    "line": 8,
+    "key": false,
+    "i": 97,
+    "start": 34.92,
+    "end": 35.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "l'endroit",
+    "line": 8,
+    "key": false,
+    "i": 98,
+    "start": 35.0,
+    "end": 35.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "où",
+    "line": 8,
+    "key": false,
+    "i": 99,
+    "start": 35.28,
+    "end": 35.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "sort",
+    "line": 8,
+    "key": false,
+    "i": 100,
+    "start": 35.46,
+    "end": 35.67,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 8,
+    "key": false,
+    "i": 101,
+    "start": 35.6,
+    "end": 35.72,
+    "exact": 1.0
+  },
+  {
+    "disp": "nerf",
+    "line": 8,
+    "key": true,
+    "i": 102,
+    "start": 35.76,
+    "end": 35.94,
+    "exact": 1.0
+  },
+  {
+    "disp": "optique,",
+    "line": 8,
+    "key": false,
+    "i": 103,
+    "start": 35.88,
+    "end": 36.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "il",
+    "line": 8,
+    "key": false,
+    "i": 104,
+    "start": 36.94,
+    "end": 37.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "n'y",
+    "line": 8,
+    "key": false,
+    "i": 105,
+    "start": 37.0,
+    "end": 37.16,
+    "exact": 1.0
+  },
+  {
+    "disp": "a",
+    "line": 8,
+    "key": false,
+    "i": 106,
+    "start": 37.16,
+    "end": 37.19,
+    "exact": 1.0
+  },
+  {
+    "disp": "pas",
+    "line": 8,
+    "key": false,
+    "i": 107,
+    "start": 37.165,
+    "end": 37.44,
+    "exact": 1.0
+  },
+  {
+    "disp": "ces",
+    "line": 8,
+    "key": false,
+    "i": 108,
+    "start": 37.44,
+    "end": 37.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "photorécepteurs.",
+    "line": 8,
+    "key": true,
+    "i": 109,
+    "start": 37.68,
+    "end": 38.4,
+    "exact": 0.0
+  },
+  {
+    "disp": "Quand",
+    "line": 9,
+    "key": false,
+    "i": 110,
+    "start": 39.14,
+    "end": 39.26,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 9,
+    "key": false,
+    "i": 111,
+    "start": 39.26,
+    "end": 39.36,
+    "exact": 1.0
+  },
+  {
+    "disp": "croix",
+    "line": 9,
+    "key": true,
+    "i": 112,
+    "start": 39.36,
+    "end": 39.56,
+    "exact": 1.0
+  },
+  {
+    "disp": "tombe",
+    "line": 9,
+    "key": false,
+    "i": 113,
+    "start": 39.56,
+    "end": 39.78,
+    "exact": 1.0
+  },
+  {
+    "disp": "dans",
+    "line": 9,
+    "key": false,
+    "i": 114,
+    "start": 39.78,
+    "end": 39.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "cette",
+    "line": 9,
+    "key": false,
+    "i": 115,
+    "start": 39.96,
+    "end": 40.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "zone",
+    "line": 9,
+    "key": false,
+    "i": 116,
+    "start": 40.2,
+    "end": 40.36,
+    "exact": 1.0
+  },
+  {
+    "disp": "de",
+    "line": 9,
+    "key": false,
+    "i": 117,
+    "start": 40.36,
+    "end": 40.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "ton",
+    "line": 9,
+    "key": false,
+    "i": 118,
+    "start": 40.5,
+    "end": 40.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "champ",
+    "line": 9,
+    "key": false,
+    "i": 119,
+    "start": 40.66,
+    "end": 40.8,
+    "exact": 1.0
+  },
+  {
+    "disp": "visuel,",
+    "line": 9,
+    "key": false,
+    "i": 120,
+    "start": 40.89,
+    "end": 41.34,
+    "exact": 1.0
+  },
+  {
+    "disp": "elle",
+    "line": 9,
+    "key": false,
+    "i": 121,
+    "start": 41.68,
+    "end": 41.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "n'est",
+    "line": 9,
+    "key": false,
+    "i": 122,
+    "start": 41.9,
+    "end": 42.08,
+    "exact": 1.0
+  },
+  {
+    "disp": "plus",
+    "line": 9,
+    "key": false,
+    "i": 123,
+    "start": 42.08,
+    "end": 42.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "détectée",
+    "line": 9,
+    "key": false,
+    "i": 124,
+    "start": 42.24,
+    "end": 42.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "par",
+    "line": 9,
+    "key": false,
+    "i": 125,
+    "start": 42.48,
+    "end": 42.7,
+    "exact": 1.0
+  },
+  {
+    "disp": "cet",
+    "line": 9,
+    "key": false,
+    "i": 126,
+    "start": 42.75,
+    "end": 42.891,
+    "exact": 0.0
+  },
+  {
+    "disp": "œil.",
+    "line": 9,
+    "key": false,
+    "i": 127,
+    "start": 42.8,
+    "end": 43.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "Ton",
+    "line": 10,
+    "key": false,
+    "i": 128,
+    "start": 43.62,
+    "end": 43.82,
+    "exact": 1.0
+  },
+  {
+    "disp": "système",
+    "line": 10,
+    "key": false,
+    "i": 129,
+    "start": 43.82,
+    "end": 44.16,
+    "exact": 1.0
+  },
+  {
+    "disp": "visuel",
+    "line": 10,
+    "key": false,
+    "i": 130,
+    "start": 44.16,
+    "end": 44.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "utilise",
+    "line": 10,
+    "key": false,
+    "i": 131,
+    "start": 44.6,
+    "end": 44.98,
+    "exact": 1.0
+  },
+  {
+    "disp": "aussi",
+    "line": 10,
+    "key": false,
+    "i": 132,
+    "start": 44.98,
+    "end": 45.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 10,
+    "key": false,
+    "i": 133,
+    "start": 45.32,
+    "end": 45.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "contexte",
+    "line": 10,
+    "key": false,
+    "i": 134,
+    "start": 45.42,
+    "end": 46.04,
+    "exact": 1.0
+  },
+  {
+    "disp": "pour",
+    "line": 10,
+    "key": false,
+    "i": 135,
+    "start": 46.04,
+    "end": 46.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "construire",
+    "line": 10,
+    "key": false,
+    "i": 136,
+    "start": 46.22,
+    "end": 46.88,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 10,
+    "key": false,
+    "i": 137,
+    "start": 46.88,
+    "end": 47.04,
+    "exact": 1.0
+  },
+  {
+    "disp": "image",
+    "line": 10,
+    "key": false,
+    "i": 138,
+    "start": 47.04,
+    "end": 47.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "continue.",
+    "line": 10,
+    "key": false,
+    "i": 139,
+    "start": 47.2,
+    "end": 47.62,
+    "exact": 1.0
+  },
+  {
+    "disp": "Une",
+    "line": 11,
+    "key": false,
+    "i": 140,
+    "start": 48.4,
+    "end": 48.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "surface",
+    "line": 11,
+    "key": false,
+    "i": 141,
+    "start": 48.66,
+    "end": 48.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "peut",
+    "line": 11,
+    "key": false,
+    "i": 142,
+    "start": 48.96,
+    "end": 49.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "donc",
+    "line": 11,
+    "key": false,
+    "i": 143,
+    "start": 49.2,
+    "end": 49.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "te",
+    "line": 11,
+    "key": false,
+    "i": 144,
+    "start": 49.32,
+    "end": 49.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "sembler",
+    "line": 11,
+    "key": false,
+    "i": 145,
+    "start": 49.5,
+    "end": 49.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "complète",
+    "line": 11,
+    "key": false,
+    "i": 146,
+    "start": 49.76,
+    "end": 50.18,
+    "exact": 1.0
+  },
+  {
+    "disp": "même",
+    "line": 11,
+    "key": false,
+    "i": 147,
+    "start": 50.18,
+    "end": 50.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "quand",
+    "line": 11,
+    "key": false,
+    "i": 148,
+    "start": 50.42,
+    "end": 50.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 11,
+    "key": false,
+    "i": 149,
+    "start": 50.6,
+    "end": 50.72,
+    "exact": 1.0
+  },
+  {
+    "disp": "partie",
+    "line": 11,
+    "key": false,
+    "i": 150,
+    "start": 50.72,
+    "end": 50.92,
+    "exact": 1.0
+  },
+  {
+    "disp": "n'est",
+    "line": 11,
+    "key": false,
+    "i": 151,
+    "start": 50.92,
+    "end": 51.1,
+    "exact": 1.0
+  },
+  {
+    "disp": "pas",
+    "line": 11,
+    "key": false,
+    "i": 152,
+    "start": 51.1,
+    "end": 51.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "directement",
+    "line": 11,
+    "key": false,
+    "i": 153,
+    "start": 51.22,
+    "end": 51.7,
+    "exact": 1.0
+  },
+  {
+    "disp": "captée.",
+    "line": 11,
+    "key": false,
+    "i": 154,
+    "start": 51.7,
+    "end": 52.08,
+    "exact": 1.0
+  },
+  {
+    "disp": "Voir,",
+    "line": 12,
+    "key": false,
+    "i": 155,
+    "start": 52.8,
+    "end": 53.31,
+    "exact": 1.0
+  },
+  {
+    "disp": "c'est",
+    "line": 12,
+    "key": false,
+    "i": 156,
+    "start": 53.56,
+    "end": 54.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "déjà",
+    "line": 12,
+    "key": false,
+    "i": 157,
+    "start": 54.02,
+    "end": 54.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "interpréter.",
+    "line": 12,
+    "key": true,
+    "i": 158,
+    "start": 54.393,
+    "end": 55.345,
+    "exact": 0.0
+  },
+  {
+    "disp": "La",
+    "line": 13,
+    "key": false,
+    "i": 159,
+    "start": 55.56,
+    "end": 55.72,
+    "exact": 1.0
+  },
+  {
+    "disp": "croix",
+    "line": 13,
+    "key": true,
+    "i": 160,
+    "start": 55.72,
+    "end": 55.92,
+    "exact": 1.0
+  },
+  {
+    "disp": "a",
+    "line": 13,
+    "key": false,
+    "i": 161,
+    "start": 55.92,
+    "end": 56.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "disparu",
+    "line": 13,
+    "key": true,
+    "i": 162,
+    "start": 56.0,
+    "end": 56.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "chez",
+    "line": 13,
+    "key": false,
+    "i": 163,
+    "start": 56.32,
+    "end": 56.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "toi ?",
+    "line": 13,
+    "key": false,
+    "i": 164,
+    "start": 56.42,
+    "end": 56.58,
+    "exact": 1.0
+  },
+  {
+    "disp": "Parce",
+    "line": 14,
+    "key": false,
+    "i": 165,
+    "start": 57.28,
+    "end": 57.64,
+    "exact": 1.0
+  },
+  {
+    "disp": "qu'il",
+    "line": 14,
+    "key": false,
+    "i": 166,
+    "start": 57.64,
+    "end": 57.86,
+    "exact": 1.0
+  },
+  {
+    "disp": "y",
+    "line": 14,
+    "key": false,
+    "i": 167,
+    "start": 57.86,
+    "end": 57.89,
+    "exact": 1.0
+  },
+  {
+    "disp": "a",
+    "line": 14,
+    "key": false,
+    "i": 168,
+    "start": 57.88,
+    "end": 57.91,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 14,
+    "key": false,
+    "i": 169,
+    "start": 57.885,
+    "end": 58.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "zone",
+    "line": 14,
+    "key": false,
+    "i": 170,
+    "start": 58.02,
+    "end": 58.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 14,
+    "key": false,
+    "i": 171,
+    "start": 58.24,
+    "end": 58.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "ton",
+    "line": 14,
+    "key": false,
+    "i": 172,
+    "start": 58.42,
+    "end": 58.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "œil",
+    "line": 14,
+    "key": false,
+    "i": 173,
+    "start": 58.71,
+    "end": 58.859,
+    "exact": 1.0
+  },
+  {
+    "disp": "ne",
+    "line": 14,
+    "key": false,
+    "i": 174,
+    "start": 58.8,
+    "end": 58.92,
+    "exact": 1.0
+  },
+  {
+    "disp": "voit",
+    "line": 14,
+    "key": false,
+    "i": 175,
+    "start": 58.92,
+    "end": 59.06,
+    "exact": 1.0
+  },
+  {
+    "disp": "pas.",
+    "line": 14,
+    "key": false,
+    "i": 176,
+    "start": 59.06,
+    "end": 59.22,
+    "exact": 1.0
+  }
+]

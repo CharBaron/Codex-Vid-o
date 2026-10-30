@@ -1,0 +1,1622 @@
+[
+  {
+    "disp": "J'ai",
+    "line": 0,
+    "key": false,
+    "i": 0,
+    "start": 0,
+    "end": 0.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "deux",
+    "line": 0,
+    "key": true,
+    "i": 1,
+    "start": 0.48,
+    "end": 0.82,
+    "exact": 1.0
+  },
+  {
+    "disp": "bateaux.",
+    "line": 0,
+    "key": true,
+    "i": 2,
+    "start": 0.82,
+    "end": 1.36,
+    "exact": 1.0
+  },
+  {
+    "disp": "Les",
+    "line": 0,
+    "key": false,
+    "i": 3,
+    "start": 2.08,
+    "end": 2.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "deux",
+    "line": 0,
+    "key": true,
+    "i": 4,
+    "start": 2.3,
+    "end": 2.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "prétendent",
+    "line": 0,
+    "key": false,
+    "i": 5,
+    "start": 2.58,
+    "end": 2.957,
+    "exact": 1.0
+  },
+  {
+    "disp": "être",
+    "line": 0,
+    "key": false,
+    "i": 6,
+    "start": 2.97,
+    "end": 3.06,
+    "exact": 1.0
+  },
+  {
+    "disp": "l'original.",
+    "line": 0,
+    "key": false,
+    "i": 7,
+    "start": 3.04,
+    "end": 3.38,
+    "exact": 1.0
+  },
+  {
+    "disp": "Imagine",
+    "line": 1,
+    "key": false,
+    "i": 8,
+    "start": 4.9,
+    "end": 5.34,
+    "exact": 1.0
+  },
+  {
+    "disp": "un",
+    "line": 1,
+    "key": false,
+    "i": 9,
+    "start": 5.34,
+    "end": 5.78,
+    "exact": 1.0
+  },
+  {
+    "disp": "navire",
+    "line": 1,
+    "key": false,
+    "i": 10,
+    "start": 5.76,
+    "end": 6.09,
+    "exact": 1.0
+  },
+  {
+    "disp": "en",
+    "line": 1,
+    "key": false,
+    "i": 11,
+    "start": 6.0,
+    "end": 6.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "bois.",
+    "line": 1,
+    "key": false,
+    "i": 12,
+    "start": 6.2,
+    "end": 6.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "On",
+    "line": 1,
+    "key": false,
+    "i": 13,
+    "start": 7.14,
+    "end": 7.34,
+    "exact": 1.0
+  },
+  {
+    "disp": "remplace",
+    "line": 1,
+    "key": false,
+    "i": 14,
+    "start": 7.34,
+    "end": 7.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 1,
+    "key": false,
+    "i": 15,
+    "start": 7.66,
+    "end": 8.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "planche",
+    "line": 1,
+    "key": false,
+    "i": 16,
+    "start": 8.02,
+    "end": 8.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "abîmée,",
+    "line": 1,
+    "key": false,
+    "i": 17,
+    "start": 8.32,
+    "end": 8.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "puis",
+    "line": 1,
+    "key": false,
+    "i": 18,
+    "start": 9.34,
+    "end": 9.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 1,
+    "key": false,
+    "i": 19,
+    "start": 9.52,
+    "end": 9.72,
+    "exact": 1.0
+  },
+  {
+    "disp": "autre.",
+    "line": 1,
+    "key": false,
+    "i": 20,
+    "start": 9.72,
+    "end": 9.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "Au",
+    "line": 2,
+    "key": false,
+    "i": 21,
+    "start": 10.76,
+    "end": 10.84,
+    "exact": 1.0
+  },
+  {
+    "disp": "bout",
+    "line": 2,
+    "key": false,
+    "i": 22,
+    "start": 10.84,
+    "end": 10.92,
+    "exact": 1.0
+  },
+  {
+    "disp": "du",
+    "line": 2,
+    "key": false,
+    "i": 23,
+    "start": 10.92,
+    "end": 11.04,
+    "exact": 1.0
+  },
+  {
+    "disp": "processus,",
+    "line": 2,
+    "key": false,
+    "i": 24,
+    "start": 11.04,
+    "end": 11.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "toutes",
+    "line": 2,
+    "key": false,
+    "i": 25,
+    "start": 11.7,
+    "end": 11.8,
+    "exact": 1.0
+  },
+  {
+    "disp": "les",
+    "line": 2,
+    "key": false,
+    "i": 26,
+    "start": 11.8,
+    "end": 12.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "pièces",
+    "line": 2,
+    "key": false,
+    "i": 27,
+    "start": 12.0,
+    "end": 12.12,
+    "exact": 1.0
+  },
+  {
+    "disp": "ont",
+    "line": 2,
+    "key": false,
+    "i": 28,
+    "start": 12.12,
+    "end": 12.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "changé.",
+    "line": 2,
+    "key": false,
+    "i": 29,
+    "start": 12.3,
+    "end": 12.54,
+    "exact": 1.0
+  },
+  {
+    "disp": "Est-ce",
+    "line": 3,
+    "key": false,
+    "i": 30,
+    "start": 13.4,
+    "end": 13.68,
+    "exact": 1.0
+  },
+  {
+    "disp": "toujours",
+    "line": 3,
+    "key": false,
+    "i": 31,
+    "start": 13.68,
+    "end": 13.86,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 3,
+    "key": false,
+    "i": 32,
+    "start": 13.86,
+    "end": 14.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "même",
+    "line": 3,
+    "key": false,
+    "i": 33,
+    "start": 14.0,
+    "end": 14.08,
+    "exact": 1.0
+  },
+  {
+    "disp": "bateau ?",
+    "line": 3,
+    "key": false,
+    "i": 34,
+    "start": 14.08,
+    "end": 14.4,
+    "exact": 1.0
+  },
+  {
+    "disp": "Tu",
+    "line": 3,
+    "key": false,
+    "i": 35,
+    "start": 15.16,
+    "end": 15.26,
+    "exact": 1.0
+  },
+  {
+    "disp": "répondrais",
+    "line": 3,
+    "key": false,
+    "i": 36,
+    "start": 15.26,
+    "end": 15.68,
+    "exact": 1.0
+  },
+  {
+    "disp": "peut-être",
+    "line": 3,
+    "key": false,
+    "i": 37,
+    "start": 15.68,
+    "end": 15.92,
+    "exact": 1.0
+  },
+  {
+    "disp": "oui :",
+    "line": 3,
+    "key": false,
+    "i": 38,
+    "start": 15.92,
+    "end": 16.12,
+    "exact": 1.0
+  },
+  {
+    "disp": "il",
+    "line": 3,
+    "key": false,
+    "i": 39,
+    "start": 16.7,
+    "end": 16.8,
+    "exact": 1.0
+  },
+  {
+    "disp": "a",
+    "line": 3,
+    "key": false,
+    "i": 40,
+    "start": 16.8,
+    "end": 16.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "continué",
+    "line": 3,
+    "key": false,
+    "i": 41,
+    "start": 16.9,
+    "end": 17.36,
+    "exact": 1.0
+  },
+  {
+    "disp": "son",
+    "line": 3,
+    "key": false,
+    "i": 42,
+    "start": 17.36,
+    "end": 17.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "histoire.",
+    "line": 3,
+    "key": false,
+    "i": 43,
+    "start": 17.52,
+    "end": 17.84,
+    "exact": 1.0
+  },
+  {
+    "disp": "Sauf",
+    "line": 4,
+    "key": false,
+    "i": 44,
+    "start": 18.62,
+    "end": 18.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 4,
+    "key": false,
+    "i": 45,
+    "start": 18.96,
+    "end": 19.18,
+    "exact": 1.0
+  },
+  {
+    "disp": "quelqu'un",
+    "line": 4,
+    "key": false,
+    "i": 46,
+    "start": 19.59,
+    "end": 20.19,
+    "exact": 1.0
+  },
+  {
+    "disp": "a",
+    "line": 4,
+    "key": false,
+    "i": 47,
+    "start": 20.12,
+    "end": 20.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "gardé",
+    "line": 4,
+    "key": false,
+    "i": 48,
+    "start": 20.32,
+    "end": 20.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "les",
+    "line": 4,
+    "key": false,
+    "i": 49,
+    "start": 20.6,
+    "end": 20.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "anciennes",
+    "line": 4,
+    "key": false,
+    "i": 50,
+    "start": 20.74,
+    "end": 21.04,
+    "exact": 1.0
+  },
+  {
+    "disp": "planches.",
+    "line": 4,
+    "key": false,
+    "i": 51,
+    "start": 21.04,
+    "end": 21.4,
+    "exact": 1.0
+  },
+  {
+    "disp": "Et",
+    "line": 4,
+    "key": false,
+    "i": 52,
+    "start": 22.12,
+    "end": 22.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "il",
+    "line": 4,
+    "key": false,
+    "i": 53,
+    "start": 22.2,
+    "end": 22.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "reconstruit",
+    "line": 4,
+    "key": false,
+    "i": 54,
+    "start": 22.28,
+    "end": 22.82,
+    "exact": 1.0
+  },
+  {
+    "disp": "un",
+    "line": 4,
+    "key": false,
+    "i": 55,
+    "start": 22.82,
+    "end": 22.98,
+    "exact": 1.0
+  },
+  {
+    "disp": "deuxième",
+    "line": 4,
+    "key": false,
+    "i": 56,
+    "start": 22.98,
+    "end": 23.46,
+    "exact": 1.0
+  },
+  {
+    "disp": "navire",
+    "line": 4,
+    "key": false,
+    "i": 57,
+    "start": 23.46,
+    "end": 23.86,
+    "exact": 1.0
+  },
+  {
+    "disp": "avec.",
+    "line": 4,
+    "key": false,
+    "i": 58,
+    "start": 23.86,
+    "end": 24.14,
+    "exact": 1.0
+  },
+  {
+    "disp": "Celui-là",
+    "line": 5,
+    "key": false,
+    "i": 59,
+    "start": 24.74,
+    "end": 25.18,
+    "exact": 1.0
+  },
+  {
+    "disp": "possède",
+    "line": 5,
+    "key": false,
+    "i": 60,
+    "start": 25.18,
+    "end": 25.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "toute",
+    "line": 5,
+    "key": false,
+    "i": 61,
+    "start": 25.48,
+    "end": 25.7,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 5,
+    "key": false,
+    "i": 62,
+    "start": 25.7,
+    "end": 25.88,
+    "exact": 1.0
+  },
+  {
+    "disp": "matière",
+    "line": 5,
+    "key": true,
+    "i": 63,
+    "start": 25.88,
+    "end": 26.04,
+    "exact": 1.0
+  },
+  {
+    "disp": "d'origine.",
+    "line": 5,
+    "key": false,
+    "i": 64,
+    "start": 26.04,
+    "end": 26.44,
+    "exact": 1.0
+  },
+  {
+    "disp": "Alors",
+    "line": 6,
+    "key": false,
+    "i": 65,
+    "start": 27.48,
+    "end": 27.78,
+    "exact": 1.0
+  },
+  {
+    "disp": "lequel",
+    "line": 6,
+    "key": false,
+    "i": 66,
+    "start": 27.87,
+    "end": 28.47,
+    "exact": 1.0
+  },
+  {
+    "disp": "est",
+    "line": 6,
+    "key": false,
+    "i": 67,
+    "start": 28.42,
+    "end": 28.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 6,
+    "key": false,
+    "i": 68,
+    "start": 28.5,
+    "end": 28.62,
+    "exact": 1.0
+  },
+  {
+    "disp": "vrai ?",
+    "line": 6,
+    "key": false,
+    "i": 69,
+    "start": 28.62,
+    "end": 28.82,
+    "exact": 1.0
+  },
+  {
+    "disp": "Le",
+    "line": 6,
+    "key": false,
+    "i": 70,
+    "start": 29.26,
+    "end": 29.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "bateau",
+    "line": 6,
+    "key": false,
+    "i": 71,
+    "start": 29.48,
+    "end": 29.72,
+    "exact": 1.0
+  },
+  {
+    "disp": "qui",
+    "line": 6,
+    "key": false,
+    "i": 72,
+    "start": 29.72,
+    "end": 29.86,
+    "exact": 1.0
+  },
+  {
+    "disp": "a",
+    "line": 6,
+    "key": false,
+    "i": 73,
+    "start": 29.86,
+    "end": 29.92,
+    "exact": 1.0
+  },
+  {
+    "disp": "continué",
+    "line": 6,
+    "key": false,
+    "i": 74,
+    "start": 29.92,
+    "end": 30.46,
+    "exact": 1.0
+  },
+  {
+    "disp": "à",
+    "line": 6,
+    "key": false,
+    "i": 75,
+    "start": 30.46,
+    "end": 30.54,
+    "exact": 1.0
+  },
+  {
+    "disp": "naviguer,",
+    "line": 6,
+    "key": false,
+    "i": 76,
+    "start": 30.54,
+    "end": 30.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "ou",
+    "line": 6,
+    "key": false,
+    "i": 77,
+    "start": 31.4,
+    "end": 31.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "celui",
+    "line": 6,
+    "key": false,
+    "i": 78,
+    "start": 31.74,
+    "end": 31.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "qui",
+    "line": 6,
+    "key": false,
+    "i": 79,
+    "start": 31.96,
+    "end": 32.14,
+    "exact": 1.0
+  },
+  {
+    "disp": "retrouve",
+    "line": 6,
+    "key": false,
+    "i": 80,
+    "start": 32.14,
+    "end": 32.56,
+    "exact": 1.0
+  },
+  {
+    "disp": "ses",
+    "line": 6,
+    "key": false,
+    "i": 81,
+    "start": 32.76,
+    "end": 32.94,
+    "exact": 1.0
+  },
+  {
+    "disp": "anciennes",
+    "line": 6,
+    "key": false,
+    "i": 82,
+    "start": 32.86,
+    "end": 33.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "pièces ?",
+    "line": 6,
+    "key": false,
+    "i": 83,
+    "start": 33.24,
+    "end": 33.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "C'est",
+    "line": 7,
+    "key": false,
+    "i": 84,
+    "start": 34.38,
+    "end": 34.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 7,
+    "key": false,
+    "i": 85,
+    "start": 34.9,
+    "end": 35.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "problème",
+    "line": 7,
+    "key": false,
+    "i": 86,
+    "start": 35.02,
+    "end": 35.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "du",
+    "line": 7,
+    "key": false,
+    "i": 87,
+    "start": 35.52,
+    "end": 35.78,
+    "exact": 1.0
+  },
+  {
+    "disp": "bateau",
+    "line": 7,
+    "key": false,
+    "i": 88,
+    "start": 35.78,
+    "end": 36.08,
+    "exact": 1.0
+  },
+  {
+    "disp": "de",
+    "line": 7,
+    "key": false,
+    "i": 89,
+    "start": 36.08,
+    "end": 36.18,
+    "exact": 1.0
+  },
+  {
+    "disp": "Thésée.",
+    "line": 7,
+    "key": true,
+    "i": 90,
+    "start": 36.21,
+    "end": 36.57,
+    "exact": 1.0
+  },
+  {
+    "disp": "Plutarque",
+    "line": 8,
+    "key": false,
+    "i": 91,
+    "start": 37.47,
+    "end": 38.01,
+    "exact": 1.0
+  },
+  {
+    "disp": "rapporte",
+    "line": 8,
+    "key": false,
+    "i": 92,
+    "start": 37.98,
+    "end": 38.36,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 8,
+    "key": false,
+    "i": 93,
+    "start": 38.36,
+    "end": 38.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "débat",
+    "line": 8,
+    "key": false,
+    "i": 94,
+    "start": 38.52,
+    "end": 38.7,
+    "exact": 1.0
+  },
+  {
+    "disp": "sur",
+    "line": 8,
+    "key": false,
+    "i": 95,
+    "start": 38.7,
+    "end": 38.88,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 8,
+    "key": false,
+    "i": 96,
+    "start": 38.88,
+    "end": 38.98,
+    "exact": 1.0
+  },
+  {
+    "disp": "navire",
+    "line": 8,
+    "key": false,
+    "i": 97,
+    "start": 38.98,
+    "end": 39.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "réparé.",
+    "line": 8,
+    "key": false,
+    "i": 98,
+    "start": 39.27,
+    "end": 39.945,
+    "exact": 0.0
+  },
+  {
+    "disp": "Hobbes",
+    "line": 8,
+    "key": false,
+    "i": 99,
+    "start": 39.945,
+    "end": 40.62,
+    "exact": 0.0
+  },
+  {
+    "disp": "ajoute",
+    "line": 8,
+    "key": false,
+    "i": 100,
+    "start": 40.86,
+    "end": 41.04,
+    "exact": 1.0
+  },
+  {
+    "disp": "ensuite",
+    "line": 8,
+    "key": false,
+    "i": 101,
+    "start": 41.04,
+    "end": 41.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 8,
+    "key": false,
+    "i": 102,
+    "start": 41.3,
+    "end": 41.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "piège",
+    "line": 8,
+    "key": false,
+    "i": 103,
+    "start": 41.5,
+    "end": 41.84,
+    "exact": 1.0
+  },
+  {
+    "disp": "du",
+    "line": 8,
+    "key": false,
+    "i": 104,
+    "start": 41.84,
+    "end": 42.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "deuxième",
+    "line": 8,
+    "key": false,
+    "i": 105,
+    "start": 42.02,
+    "end": 42.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "bateau.",
+    "line": 8,
+    "key": false,
+    "i": 106,
+    "start": 42.28,
+    "end": 42.88,
+    "exact": 1.0
+  },
+  {
+    "disp": "Ce",
+    "line": 9,
+    "key": false,
+    "i": 107,
+    "start": 43.62,
+    "end": 43.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "n'est",
+    "line": 9,
+    "key": false,
+    "i": 108,
+    "start": 43.74,
+    "end": 43.84,
+    "exact": 1.0
+  },
+  {
+    "disp": "pas",
+    "line": 9,
+    "key": false,
+    "i": 109,
+    "start": 43.84,
+    "end": 43.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 9,
+    "key": false,
+    "i": 110,
+    "start": 43.96,
+    "end": 44.12,
+    "exact": 1.0
+  },
+  {
+    "disp": "énigme",
+    "line": 9,
+    "key": false,
+    "i": 111,
+    "start": 44.12,
+    "end": 44.38,
+    "exact": 1.0
+  },
+  {
+    "disp": "avec",
+    "line": 9,
+    "key": false,
+    "i": 112,
+    "start": 44.38,
+    "end": 44.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 9,
+    "key": false,
+    "i": 113,
+    "start": 44.6,
+    "end": 45.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "seule",
+    "line": 9,
+    "key": false,
+    "i": 114,
+    "start": 45.0,
+    "end": 45.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "réponse",
+    "line": 9,
+    "key": false,
+    "i": 115,
+    "start": 45.2,
+    "end": 45.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "admise.",
+    "line": 9,
+    "key": false,
+    "i": 116,
+    "start": 45.48,
+    "end": 45.94,
+    "exact": 1.0
+  },
+  {
+    "disp": "Tout",
+    "line": 10,
+    "key": false,
+    "i": 117,
+    "start": 46.86,
+    "end": 46.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "dépend",
+    "line": 10,
+    "key": false,
+    "i": 118,
+    "start": 46.96,
+    "end": 47.16,
+    "exact": 1.0
+  },
+  {
+    "disp": "de",
+    "line": 10,
+    "key": false,
+    "i": 119,
+    "start": 47.16,
+    "end": 47.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "ce",
+    "line": 10,
+    "key": false,
+    "i": 120,
+    "start": 47.28,
+    "end": 47.38,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 10,
+    "key": false,
+    "i": 121,
+    "start": 47.38,
+    "end": 47.46,
+    "exact": 1.0
+  },
+  {
+    "disp": "tu",
+    "line": 10,
+    "key": false,
+    "i": 122,
+    "start": 47.46,
+    "end": 47.56,
+    "exact": 1.0
+  },
+  {
+    "disp": "veux",
+    "line": 10,
+    "key": false,
+    "i": 123,
+    "start": 47.56,
+    "end": 47.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "préserver :",
+    "line": 10,
+    "key": false,
+    "i": 124,
+    "start": 47.66,
+    "end": 48.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 10,
+    "key": false,
+    "i": 125,
+    "start": 48.64,
+    "end": 48.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "matière,",
+    "line": 10,
+    "key": true,
+    "i": 126,
+    "start": 48.74,
+    "end": 49.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 10,
+    "key": false,
+    "i": 127,
+    "start": 49.76,
+    "end": 50.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "continuité,",
+    "line": 10,
+    "key": true,
+    "i": 128,
+    "start": 50.0,
+    "end": 50.54,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 10,
+    "key": false,
+    "i": 129,
+    "start": 51.06,
+    "end": 51.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "forme,",
+    "line": 10,
+    "key": false,
+    "i": 130,
+    "start": 51.24,
+    "end": 51.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "ou",
+    "line": 10,
+    "key": false,
+    "i": 131,
+    "start": 52.26,
+    "end": 52.379,
+    "exact": 1.0
+  },
+  {
+    "disp": "l'usage.",
+    "line": 10,
+    "key": false,
+    "i": 132,
+    "start": 52.36,
+    "end": 52.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "Et",
+    "line": 11,
+    "key": false,
+    "i": 133,
+    "start": 53.67,
+    "end": 53.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "ça",
+    "line": 11,
+    "key": false,
+    "i": 134,
+    "start": 53.74,
+    "end": 53.86,
+    "exact": 1.0
+  },
+  {
+    "disp": "dépasse",
+    "line": 11,
+    "key": false,
+    "i": 135,
+    "start": 53.86,
+    "end": 54.1,
+    "exact": 1.0
+  },
+  {
+    "disp": "les",
+    "line": 11,
+    "key": false,
+    "i": 136,
+    "start": 54.1,
+    "end": 54.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "bateaux.",
+    "line": 11,
+    "key": true,
+    "i": 137,
+    "start": 54.24,
+    "end": 54.46,
+    "exact": 1.0
+  },
+  {
+    "disp": "Pense",
+    "line": 11,
+    "key": false,
+    "i": 138,
+    "start": 55.36,
+    "end": 55.68,
+    "exact": 1.0
+  },
+  {
+    "disp": "à",
+    "line": 11,
+    "key": false,
+    "i": 139,
+    "start": 55.68,
+    "end": 55.8,
+    "exact": 1.0
+  },
+  {
+    "disp": "un",
+    "line": 11,
+    "key": false,
+    "i": 140,
+    "start": 55.8,
+    "end": 55.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "objet",
+    "line": 11,
+    "key": false,
+    "i": 141,
+    "start": 55.92,
+    "end": 56.13,
+    "exact": 1.0
+  },
+  {
+    "disp": "restauré,",
+    "line": 11,
+    "key": false,
+    "i": 142,
+    "start": 56.1,
+    "end": 56.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "ou",
+    "line": 11,
+    "key": false,
+    "i": 143,
+    "start": 57.27,
+    "end": 57.45,
+    "exact": 1.0
+  },
+  {
+    "disp": "à",
+    "line": 11,
+    "key": false,
+    "i": 144,
+    "start": 57.4,
+    "end": 57.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "un",
+    "line": 11,
+    "key": false,
+    "i": 145,
+    "start": 57.48,
+    "end": 57.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "groupe",
+    "line": 11,
+    "key": false,
+    "i": 146,
+    "start": 57.6,
+    "end": 57.78,
+    "exact": 1.0
+  },
+  {
+    "disp": "dont",
+    "line": 11,
+    "key": false,
+    "i": 147,
+    "start": 58.14,
+    "end": 58.38,
+    "exact": 1.0
+  },
+  {
+    "disp": "tous",
+    "line": 11,
+    "key": false,
+    "i": 148,
+    "start": 58.3,
+    "end": 58.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "les",
+    "line": 11,
+    "key": false,
+    "i": 149,
+    "start": 58.52,
+    "end": 58.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "membres",
+    "line": 11,
+    "key": false,
+    "i": 150,
+    "start": 58.6,
+    "end": 58.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "ont",
+    "line": 11,
+    "key": false,
+    "i": 151,
+    "start": 58.74,
+    "end": 58.77,
+    "exact": 1.0
+  },
+  {
+    "disp": "changé.",
+    "line": 11,
+    "key": false,
+    "i": 152,
+    "start": 58.745,
+    "end": 59.18,
+    "exact": 1.0
+  },
+  {
+    "disp": "Dire",
+    "line": 12,
+    "key": false,
+    "i": 153,
+    "start": 60.21,
+    "end": 60.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 12,
+    "key": false,
+    "i": 154,
+    "start": 60.84,
+    "end": 61.14,
+    "exact": 1.0
+  },
+  {
+    "disp": "même,",
+    "line": 12,
+    "key": false,
+    "i": 155,
+    "start": 61.1,
+    "end": 61.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "c'est",
+    "line": 12,
+    "key": false,
+    "i": 156,
+    "start": 62.22,
+    "end": 62.43,
+    "exact": 0.0
+  },
+  {
+    "disp": "parfois",
+    "line": 12,
+    "key": false,
+    "i": 157,
+    "start": 62.42,
+    "end": 62.62,
+    "exact": 1.0
+  },
+  {
+    "disp": "déjà",
+    "line": 12,
+    "key": false,
+    "i": 158,
+    "start": 62.62,
+    "end": 62.88,
+    "exact": 1.0
+  },
+  {
+    "disp": "choisir",
+    "line": 12,
+    "key": false,
+    "i": 159,
+    "start": 62.88,
+    "end": 63.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "un",
+    "line": 12,
+    "key": false,
+    "i": 160,
+    "start": 63.24,
+    "end": 63.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "critère.",
+    "line": 12,
+    "key": false,
+    "i": 161,
+    "start": 63.32,
+    "end": 63.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "Toi,",
+    "line": 13,
+    "key": false,
+    "i": 162,
+    "start": 64.26,
+    "end": 64.4,
+    "exact": 1.0
+  },
+  {
+    "disp": "tu",
+    "line": 13,
+    "key": false,
+    "i": 163,
+    "start": 64.4,
+    "end": 64.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "donnes",
+    "line": 13,
+    "key": false,
+    "i": 164,
+    "start": 64.56,
+    "end": 64.74,
+    "exact": 0.0
+  },
+  {
+    "disp": "le",
+    "line": 13,
+    "key": false,
+    "i": 165,
+    "start": 64.64,
+    "end": 64.8,
+    "exact": 1.0
+  },
+  {
+    "disp": "nom",
+    "line": 13,
+    "key": false,
+    "i": 166,
+    "start": 64.8,
+    "end": 64.94,
+    "exact": 1.0
+  },
+  {
+    "disp": "à",
+    "line": 13,
+    "key": false,
+    "i": 167,
+    "start": 64.94,
+    "end": 65.1,
+    "exact": 1.0
+  },
+  {
+    "disp": "quel",
+    "line": 13,
+    "key": false,
+    "i": 168,
+    "start": 65.1,
+    "end": 65.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "bateau ?",
+    "line": 13,
+    "key": false,
+    "i": 169,
+    "start": 65.32,
+    "end": 65.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "Parce",
+    "line": 14,
+    "key": false,
+    "i": 170,
+    "start": 66.08,
+    "end": 66.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 14,
+    "key": false,
+    "i": 171,
+    "start": 66.28,
+    "end": 66.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "j'ai",
+    "line": 14,
+    "key": false,
+    "i": 172,
+    "start": 66.42,
+    "end": 66.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "deux",
+    "line": 14,
+    "key": true,
+    "i": 173,
+    "start": 66.52,
+    "end": 66.7,
+    "exact": 1.0
+  },
+  {
+    "disp": "bateaux.",
+    "line": 14,
+    "key": true,
+    "i": 174,
+    "start": 66.7,
+    "end": 67.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "Les",
+    "line": 14,
+    "key": false,
+    "i": 175,
+    "start": 67.48,
+    "end": 67.7,
+    "exact": 1.0
+  },
+  {
+    "disp": "deux",
+    "line": 14,
+    "key": true,
+    "i": 176,
+    "start": 67.7,
+    "end": 67.88,
+    "exact": 1.0
+  },
+  {
+    "disp": "prétendent",
+    "line": 14,
+    "key": false,
+    "i": 177,
+    "start": 67.95,
+    "end": 68.293,
+    "exact": 0.0
+  },
+  {
+    "disp": "être",
+    "line": 14,
+    "key": false,
+    "i": 178,
+    "start": 68.293,
+    "end": 68.43,
+    "exact": 0.0
+  },
+  {
+    "disp": "l'original.",
+    "line": 14,
+    "key": false,
+    "i": 179,
+    "start": 68.4,
+    "end": 68.68,
+    "exact": 1.0
+  }
+]

@@ -1,0 +1,659 @@
+{
+  "duration": 59.06666666666667,
+  "voice_duration": 58.90204166666667,
+  "fps": 30,
+  "domain": "Histoire",
+  "hook_lines": [
+    "11 JOURS ONT DISPARU",
+    "DU CALENDRIER"
+  ],
+  "hook_duration": 3,
+  "source_short": "Royal Museums Greenwich · calendrier 1752",
+  "shots": [
+    [
+      0,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      1.1333333333333333,
+      "subject",
+      {
+        "img": "hourglass",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      2.3,
+      "calendar",
+      {
+        "day": "11",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      3.433333333333333,
+      "calendar",
+      {
+        "day": "2",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      4.566666666666666,
+      "calendar",
+      {
+        "day": "2",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      5.666666666666667,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      6.8,
+      "calendar",
+      {
+        "day": "14",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      7.9,
+      "subject",
+      {
+        "img": "hourglass",
+        "label": "PAS DE MACHINE À VOYAGER",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      8.833333333333334,
+      "subject",
+      {
+        "img": "hourglass",
+        "label": "PAS DE MACHINE À VOYAGER",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      9.766666666666667,
+      "subject",
+      {
+        "img": "hourglass",
+        "label": "PAS DE MACHINE À VOYAGER",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      10.733333333333333,
+      "calendar",
+      {
+        "day": "1752",
+        "label": "CALENDRIER GRÉGORIEN",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      11.8,
+      "calendar",
+      {
+        "day": "1752",
+        "label": "CALENDRIER GRÉGORIEN",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      12.866666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      13.966666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      15.033333333333333,
+      "orbit",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      16.233333333333334,
+      "orbit",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      17.4,
+      "subject",
+      {
+        "img": "hourglass",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      18.566666666666666,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      19.766666666666666,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      20.933333333333334,
+      "calendar",
+      {
+        "day": "14",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      22.133333333333333,
+      "subject",
+      {
+        "img": "student",
+        "label": "PAS 11 JOURS DE VIE !",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      23.3,
+      "subject",
+      {
+        "img": "student",
+        "label": "PAS 11 JOURS DE VIE !",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      24.466666666666665,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      25.666666666666668,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      26.833333333333332,
+      "orbit",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      28.066666666666666,
+      "orbit",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      29.266666666666666,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      30.466666666666665,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      31.666666666666668,
+      "subject",
+      {
+        "img": "hourglass",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      32.96666666666667,
+      "subject",
+      {
+        "img": "hourglass",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      34.233333333333334,
+      "orbit",
+      {
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      35.53333333333333,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      36.63333333333333,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      37.766666666666666,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      38.9,
+      "orbit",
+      {
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      40.03333333333333,
+      "orbit",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      41.166666666666664,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS EN MÊME TEMPS",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      42.333333333333336,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS EN MÊME TEMPS",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      43.5,
+      "subject",
+      {
+        "img": "mask",
+        "label": "UN VOISIN DANS UNE AUTRE DATE",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      44.5,
+      "subject",
+      {
+        "img": "mask",
+        "label": "UN VOISIN DANS UNE AUTRE DATE",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      45.53333333333333,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      46.53333333333333,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      47.53333333333333,
+      "orbit",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      48.53333333333333,
+      "orbit",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      49.56666666666667,
+      "subject",
+      {
+        "img": "hourglass",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      50.56666666666667,
+      "subject",
+      {
+        "img": "hourglass",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      51.56666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "TU SUPPRIMES QUELLE DATE ?",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      52.666666666666664,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "TU SUPPRIMES QUELLE DATE ?",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      53.766666666666666,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "TU SUPPRIMES QUELLE DATE ?",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      54.86666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "TU SUPPRIMES QUELLE DATE ?",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      55.96666666666667,
+      "calendar",
+      {
+        "jump": true,
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      57.0,
+      "subject",
+      {
+        "img": "hourglass",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      58.03333333333333,
+      "calendar",
+      {
+        "day": "11",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ]
+  ],
+  "intentional_holds": [],
+  "voice": "Achird",
+  "music_offset": 7.41
+}

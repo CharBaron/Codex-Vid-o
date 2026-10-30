@@ -1,0 +1,15 @@
+Changer de porte peut doubler tes chances de gagner.
+Trois portes. Une voiture derrière l'une, une chèvre derrière chacune des deux autres.
+La voiture est placée au hasard. Tu choisis une porte.
+Le présentateur sait où elle est. Il ouvre toujours une autre porte qui cache une chèvre, puis te propose de changer.
+S'il a le choix entre deux chèvres, il tire au hasard laquelle montrer.
+Tu restes ou tu changes ?
+On pourrait croire que les deux portes restantes ont chacune une chance sur deux.
+Mais regarde ton premier choix : il avait une chance sur trois d'être bon, deux sur trois d'être mauvais.
+Si tu avais choisi la voiture, changer te fait perdre.
+Si tu avais choisi une chèvre, le présentateur élimine l'autre chèvre. Changer te fait alors gagner.
+La stratégie changer gagne donc dans deux des trois cas possibles au départ.
+C'est le problème de Monty Hall.
+Attention : ce résultat dépend des règles du présentateur. S'il ouvre une porte autrement, il faut refaire le raisonnement.
+Alors, tu changes ?
+Parce que changer de porte peut doubler tes chances de gagner.

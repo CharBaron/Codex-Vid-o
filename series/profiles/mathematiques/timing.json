@@ -1,0 +1,656 @@
+{
+  "duration": 60.13333333333333,
+  "voice_duration": 59.97675,
+  "fps": 30,
+  "domain": "Mathématiques",
+  "hook_lines": [
+    "CHANGER DE PORTE",
+    "DOUBLE TES CHANCES ?"
+  ],
+  "hook_duration": 2.98,
+  "source_short": "Monty Hall · règles explicites",
+  "shots": [
+    [
+      0,
+      "doors",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      1.0,
+      "subject",
+      {
+        "img": "goat",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      2.0,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      2.966666666666667,
+      "doors",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      4.133333333333334,
+      "doors",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      5.3,
+      "subject",
+      {
+        "img": "goat",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      6.433333333333334,
+      "subject",
+      {
+        "img": "goat",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      7.6,
+      "doors",
+      {
+        "label": "CHOISIS UNE PORTE",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      8.8,
+      "doors",
+      {
+        "label": "CHOISIS UNE PORTE",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      10.0,
+      "subject",
+      {
+        "img": "mask",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      11.166666666666666,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      12.4,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      13.633333333333333,
+      "subject",
+      {
+        "img": "goat",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      14.866666666666667,
+      "subject",
+      {
+        "img": "goat",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      16.1,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      17.3,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      18.433333333333334,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      19.6,
+      "subject",
+      {
+        "img": "philo_cut",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      20.733333333333334,
+      "doors",
+      {
+        "opened": true,
+        "label": "TU CHANGES ?",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      21.866666666666667,
+      "doors",
+      {
+        "opened": true,
+        "label": "TU CHANGES ?",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      23.033333333333335,
+      "subject",
+      {
+        "img": "brain",
+        "label": "UNE CHANCE SUR DEUX ?",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      24.2,
+      "subject",
+      {
+        "img": "brain",
+        "label": "UNE CHANCE SUR DEUX ?",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      25.333333333333332,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      26.5,
+      "probability",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      27.6,
+      "probability",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      28.733333333333334,
+      "probability",
+      {
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      29.833333333333332,
+      "cases",
+      {
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      30.966666666666665,
+      "cases",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      32.06666666666667,
+      "cases",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      33.13333333333333,
+      "cases",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      34.2,
+      "doors",
+      {
+        "reveal": true,
+        "label": "SI TU AVAIS LA VOITURE…",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      35.266666666666666,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      36.36666666666667,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      37.46666666666667,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      38.56666666666667,
+      "cases",
+      {
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      39.666666666666664,
+      "cases",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      40.766666666666666,
+      "cases",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      41.86666666666667,
+      "cases",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      42.93333333333333,
+      "cases",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      43.96666666666667,
+      "probability",
+      {
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      45.0,
+      "probability",
+      {
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      46.06666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "MONTY HALL",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      47.1,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "MONTY HALL",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      48.13333333333333,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "LES RÈGLES COMPTENT",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      49.266666666666666,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "LES RÈGLES COMPTENT",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      50.43333333333333,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "LES RÈGLES COMPTENT",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      51.6,
+      "doors",
+      {
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      52.733333333333334,
+      "doors",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      53.9,
+      "doors",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      55.06666666666667,
+      "doors",
+      {
+        "opened": true,
+        "label": "ALORS, TU CHANGES ?",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      55.93333333333333,
+      "doors",
+      {
+        "opened": true,
+        "label": "ALORS, TU CHANGES ?",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      56.8,
+      "probability",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      57.9,
+      "subject",
+      {
+        "img": "goat",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      59.03333333333333,
+      "doors",
+      {
+        "opened": true,
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ]
+  ],
+  "intentional_holds": [],
+  "voice": "Achird",
+  "music_offset": 7.41
+}

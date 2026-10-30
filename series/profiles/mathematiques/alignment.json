@@ -1,0 +1,8 @@
+{
+  "vosk_match": 0.9385474860335196,
+  "whisper_match": 0.8736263736263736,
+  "whisper_agreed_words": 157,
+  "words": 180,
+  "human_listening": false,
+  "method": "Script-preserving hybrid local alignment"
+}

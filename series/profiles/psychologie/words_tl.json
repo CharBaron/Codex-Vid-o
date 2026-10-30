@@ -1,0 +1,1568 @@
+[
+  {
+    "disp": "Dans",
+    "line": 0,
+    "key": false,
+    "i": 0,
+    "start": 0,
+    "end": 0.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "cette",
+    "line": 0,
+    "key": false,
+    "i": 1,
+    "start": 0.3,
+    "end": 0.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "expérience,",
+    "line": 0,
+    "key": false,
+    "i": 2,
+    "start": 0.5,
+    "end": 0.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "un",
+    "line": 0,
+    "key": false,
+    "i": 3,
+    "start": 1.32,
+    "end": 1.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "dollar",
+    "line": 0,
+    "key": true,
+    "i": 4,
+    "start": 1.42,
+    "end": 1.7,
+    "exact": 1.0
+  },
+  {
+    "disp": "convainc",
+    "line": 0,
+    "key": true,
+    "i": 5,
+    "start": 1.83,
+    "end": 2.16,
+    "exact": 0.0
+  },
+  {
+    "disp": "mieux",
+    "line": 0,
+    "key": false,
+    "i": 6,
+    "start": 2.08,
+    "end": 2.28,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 0,
+    "key": false,
+    "i": 7,
+    "start": 2.28,
+    "end": 2.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "vingt.",
+    "line": 0,
+    "key": true,
+    "i": 8,
+    "start": 2.48,
+    "end": 2.68,
+    "exact": 1.0
+  },
+  {
+    "disp": "Imagine :",
+    "line": 1,
+    "key": false,
+    "i": 9,
+    "start": 3.3,
+    "end": 3.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "on",
+    "line": 1,
+    "key": false,
+    "i": 10,
+    "start": 4.44,
+    "end": 4.589,
+    "exact": 1.0
+  },
+  {
+    "disp": "te",
+    "line": 1,
+    "key": false,
+    "i": 11,
+    "start": 4.52,
+    "end": 4.62,
+    "exact": 1.0
+  },
+  {
+    "disp": "fait",
+    "line": 1,
+    "key": false,
+    "i": 12,
+    "start": 4.62,
+    "end": 4.68,
+    "exact": 1.0
+  },
+  {
+    "disp": "tourner",
+    "line": 1,
+    "key": false,
+    "i": 13,
+    "start": 4.68,
+    "end": 4.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "des",
+    "line": 1,
+    "key": false,
+    "i": 14,
+    "start": 4.96,
+    "end": 5.06,
+    "exact": 1.0
+  },
+  {
+    "disp": "petites",
+    "line": 1,
+    "key": false,
+    "i": 15,
+    "start": 5.06,
+    "end": 5.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "chevilles",
+    "line": 1,
+    "key": false,
+    "i": 16,
+    "start": 5.3,
+    "end": 5.7,
+    "exact": 1.0
+  },
+  {
+    "disp": "pendant",
+    "line": 1,
+    "key": false,
+    "i": 17,
+    "start": 5.7,
+    "end": 5.98,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 1,
+    "key": false,
+    "i": 18,
+    "start": 5.98,
+    "end": 6.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "éternité.",
+    "line": 1,
+    "key": false,
+    "i": 19,
+    "start": 6.2,
+    "end": 6.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "C'est",
+    "line": 1,
+    "key": false,
+    "i": 20,
+    "start": 7.54,
+    "end": 7.82,
+    "exact": 1.0
+  },
+  {
+    "disp": "ennuyeux.",
+    "line": 1,
+    "key": false,
+    "i": 21,
+    "start": 7.82,
+    "end": 8.26,
+    "exact": 1.0
+  },
+  {
+    "disp": "Puis",
+    "line": 2,
+    "key": false,
+    "i": 22,
+    "start": 8.98,
+    "end": 9.16,
+    "exact": 1.0
+  },
+  {
+    "disp": "on",
+    "line": 2,
+    "key": false,
+    "i": 23,
+    "start": 9.16,
+    "end": 9.34,
+    "exact": 1.0
+  },
+  {
+    "disp": "te",
+    "line": 2,
+    "key": false,
+    "i": 24,
+    "start": 9.34,
+    "end": 9.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "paie",
+    "line": 2,
+    "key": false,
+    "i": 25,
+    "start": 9.57,
+    "end": 9.93,
+    "exact": 0.0
+  },
+  {
+    "disp": "pour",
+    "line": 2,
+    "key": false,
+    "i": 26,
+    "start": 9.92,
+    "end": 10.08,
+    "exact": 1.0
+  },
+  {
+    "disp": "dire",
+    "line": 2,
+    "key": false,
+    "i": 27,
+    "start": 10.08,
+    "end": 10.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "à",
+    "line": 2,
+    "key": false,
+    "i": 28,
+    "start": 10.24,
+    "end": 10.36,
+    "exact": 1.0
+  },
+  {
+    "disp": "quelqu'un",
+    "line": 2,
+    "key": false,
+    "i": 29,
+    "start": 10.36,
+    "end": 10.68,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 2,
+    "key": false,
+    "i": 30,
+    "start": 10.68,
+    "end": 10.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "c'était",
+    "line": 2,
+    "key": false,
+    "i": 31,
+    "start": 10.76,
+    "end": 10.98,
+    "exact": 1.0
+  },
+  {
+    "disp": "passionnant.",
+    "line": 2,
+    "key": false,
+    "i": 32,
+    "start": 10.98,
+    "end": 11.64,
+    "exact": 1.0
+  },
+  {
+    "disp": "Certains",
+    "line": 3,
+    "key": false,
+    "i": 33,
+    "start": 12.24,
+    "end": 12.68,
+    "exact": 1.0
+  },
+  {
+    "disp": "reçoivent",
+    "line": 3,
+    "key": false,
+    "i": 34,
+    "start": 12.68,
+    "end": 12.92,
+    "exact": 1.0
+  },
+  {
+    "disp": "un",
+    "line": 3,
+    "key": false,
+    "i": 35,
+    "start": 12.92,
+    "end": 13.1,
+    "exact": 1.0
+  },
+  {
+    "disp": "dollar.",
+    "line": 3,
+    "key": true,
+    "i": 36,
+    "start": 13.1,
+    "end": 13.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "D'autres,",
+    "line": 3,
+    "key": false,
+    "i": 37,
+    "start": 13.68,
+    "end": 14.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "vingt.",
+    "line": 3,
+    "key": true,
+    "i": 38,
+    "start": 14.0,
+    "end": 14.4,
+    "exact": 1.0
+  },
+  {
+    "disp": "Ensuite,",
+    "line": 4,
+    "key": false,
+    "i": 39,
+    "start": 15.48,
+    "end": 15.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "on",
+    "line": 4,
+    "key": false,
+    "i": 40,
+    "start": 15.8,
+    "end": 15.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "leur",
+    "line": 4,
+    "key": false,
+    "i": 41,
+    "start": 15.9,
+    "end": 16.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "demande",
+    "line": 4,
+    "key": false,
+    "i": 42,
+    "start": 16.0,
+    "end": 16.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "ce",
+    "line": 4,
+    "key": false,
+    "i": 43,
+    "start": 16.2,
+    "end": 16.4,
+    "exact": 1.0
+  },
+  {
+    "disp": "qu'ils",
+    "line": 4,
+    "key": false,
+    "i": 44,
+    "start": 16.4,
+    "end": 16.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "pensent",
+    "line": 4,
+    "key": false,
+    "i": 45,
+    "start": 16.5,
+    "end": 16.78,
+    "exact": 1.0
+  },
+  {
+    "disp": "vraiment",
+    "line": 4,
+    "key": false,
+    "i": 46,
+    "start": 16.78,
+    "end": 17.08,
+    "exact": 1.0
+  },
+  {
+    "disp": "de",
+    "line": 4,
+    "key": false,
+    "i": 47,
+    "start": 17.08,
+    "end": 17.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 4,
+    "key": false,
+    "i": 48,
+    "start": 17.22,
+    "end": 17.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "tâche.",
+    "line": 4,
+    "key": false,
+    "i": 49,
+    "start": 17.3,
+    "end": 17.62,
+    "exact": 1.0
+  },
+  {
+    "disp": "Surprise :",
+    "line": 5,
+    "key": false,
+    "i": 50,
+    "start": 18.3,
+    "end": 18.93,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 5,
+    "key": false,
+    "i": 51,
+    "start": 19.32,
+    "end": 19.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "groupe",
+    "line": 5,
+    "key": false,
+    "i": 52,
+    "start": 19.5,
+    "end": 19.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "payé",
+    "line": 5,
+    "key": false,
+    "i": 53,
+    "start": 19.74,
+    "end": 20.14,
+    "exact": 1.0
+  },
+  {
+    "disp": "un",
+    "line": 5,
+    "key": false,
+    "i": 54,
+    "start": 20.14,
+    "end": 20.36,
+    "exact": 1.0
+  },
+  {
+    "disp": "dollar",
+    "line": 5,
+    "key": true,
+    "i": 55,
+    "start": 20.36,
+    "end": 20.64,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 5,
+    "key": false,
+    "i": 56,
+    "start": 20.64,
+    "end": 20.84,
+    "exact": 1.0
+  },
+  {
+    "disp": "juge",
+    "line": 5,
+    "key": false,
+    "i": 57,
+    "start": 20.84,
+    "end": 21.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "plus",
+    "line": 5,
+    "key": false,
+    "i": 58,
+    "start": 21.02,
+    "end": 21.26,
+    "exact": 1.0
+  },
+  {
+    "disp": "intéressante",
+    "line": 5,
+    "key": false,
+    "i": 59,
+    "start": 21.26,
+    "end": 21.86,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 5,
+    "key": false,
+    "i": 60,
+    "start": 21.86,
+    "end": 22.04,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 5,
+    "key": false,
+    "i": 61,
+    "start": 22.04,
+    "end": 22.12,
+    "exact": 1.0
+  },
+  {
+    "disp": "groupe",
+    "line": 5,
+    "key": false,
+    "i": 62,
+    "start": 22.12,
+    "end": 22.34,
+    "exact": 1.0
+  },
+  {
+    "disp": "payé",
+    "line": 5,
+    "key": false,
+    "i": 63,
+    "start": 22.34,
+    "end": 22.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "vingt.",
+    "line": 5,
+    "key": true,
+    "i": 64,
+    "start": 22.66,
+    "end": 22.84,
+    "exact": 1.0
+  },
+  {
+    "disp": "Cette",
+    "line": 6,
+    "key": false,
+    "i": 65,
+    "start": 23.8,
+    "end": 24.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "expérience,",
+    "line": 6,
+    "key": false,
+    "i": 66,
+    "start": 24.02,
+    "end": 24.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "c'est",
+    "line": 6,
+    "key": false,
+    "i": 67,
+    "start": 24.599,
+    "end": 24.679,
+    "exact": 0.0
+  },
+  {
+    "disp": "Festinger",
+    "line": 6,
+    "key": false,
+    "i": 68,
+    "start": 24.604,
+    "end": 24.68,
+    "exact": 0.0
+  },
+  {
+    "disp": "et",
+    "line": 6,
+    "key": false,
+    "i": 69,
+    "start": 24.609,
+    "end": 24.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "Carlsmith,",
+    "line": 6,
+    "key": false,
+    "i": 70,
+    "start": 24.66,
+    "end": 25.74,
+    "exact": 0.0
+  },
+  {
+    "disp": "en",
+    "line": 6,
+    "key": false,
+    "i": 71,
+    "start": 25.56,
+    "end": 25.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "1959.",
+    "line": 6,
+    "key": true,
+    "i": 72,
+    "start": 25.9,
+    "end": 26.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "Leur",
+    "line": 7,
+    "key": false,
+    "i": 73,
+    "start": 27.24,
+    "end": 27.72,
+    "exact": 1.0
+  },
+  {
+    "disp": "explication ?",
+    "line": 7,
+    "key": false,
+    "i": 74,
+    "start": 27.72,
+    "end": 28.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "Avec",
+    "line": 7,
+    "key": false,
+    "i": 75,
+    "start": 28.74,
+    "end": 29.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "vingt",
+    "line": 7,
+    "key": true,
+    "i": 76,
+    "start": 29.0,
+    "end": 29.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "dollars,",
+    "line": 7,
+    "key": false,
+    "i": 77,
+    "start": 29.24,
+    "end": 29.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "tu",
+    "line": 7,
+    "key": false,
+    "i": 78,
+    "start": 29.815,
+    "end": 29.895,
+    "exact": 0.0
+  },
+  {
+    "disp": "as",
+    "line": 7,
+    "key": false,
+    "i": 79,
+    "start": 29.93,
+    "end": 30.01,
+    "exact": 0.0
+  },
+  {
+    "disp": "une",
+    "line": 7,
+    "key": false,
+    "i": 80,
+    "start": 30.045,
+    "end": 30.125,
+    "exact": 0.0
+  },
+  {
+    "disp": "bonne",
+    "line": 7,
+    "key": false,
+    "i": 81,
+    "start": 30.2,
+    "end": 30.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "raison",
+    "line": 7,
+    "key": true,
+    "i": 82,
+    "start": 30.3,
+    "end": 30.56,
+    "exact": 1.0
+  },
+  {
+    "disp": "extérieure",
+    "line": 7,
+    "key": false,
+    "i": 83,
+    "start": 30.56,
+    "end": 31.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "d'avoir",
+    "line": 7,
+    "key": false,
+    "i": 84,
+    "start": 31.22,
+    "end": 31.38,
+    "exact": 1.0
+  },
+  {
+    "disp": "menti.",
+    "line": 7,
+    "key": false,
+    "i": 85,
+    "start": 31.38,
+    "end": 31.72,
+    "exact": 1.0
+  },
+  {
+    "disp": "Avec",
+    "line": 8,
+    "key": false,
+    "i": 86,
+    "start": 32.3,
+    "end": 32.56,
+    "exact": 1.0
+  },
+  {
+    "disp": "un",
+    "line": 8,
+    "key": false,
+    "i": 87,
+    "start": 32.88,
+    "end": 33.03,
+    "exact": 1.0
+  },
+  {
+    "disp": "seul",
+    "line": 8,
+    "key": false,
+    "i": 88,
+    "start": 33.0,
+    "end": 33.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "dollar,",
+    "line": 8,
+    "key": true,
+    "i": 89,
+    "start": 33.22,
+    "end": 33.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "cette",
+    "line": 8,
+    "key": false,
+    "i": 90,
+    "start": 33.76,
+    "end": 33.84,
+    "exact": 1.0
+  },
+  {
+    "disp": "justification",
+    "line": 8,
+    "key": true,
+    "i": 91,
+    "start": 33.84,
+    "end": 34.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "est",
+    "line": 8,
+    "key": false,
+    "i": 92,
+    "start": 34.32,
+    "end": 34.58,
+    "exact": 1.0
+  },
+  {
+    "disp": "moins",
+    "line": 8,
+    "key": false,
+    "i": 93,
+    "start": 34.58,
+    "end": 34.7,
+    "exact": 1.0
+  },
+  {
+    "disp": "forte.",
+    "line": 8,
+    "key": false,
+    "i": 94,
+    "start": 34.7,
+    "end": 35.12,
+    "exact": 1.0
+  },
+  {
+    "disp": "Alors,",
+    "line": 9,
+    "key": false,
+    "i": 95,
+    "start": 35.8,
+    "end": 36.08,
+    "exact": 1.0
+  },
+  {
+    "disp": "pour",
+    "line": 9,
+    "key": false,
+    "i": 96,
+    "start": 36.32,
+    "end": 36.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "réduire",
+    "line": 9,
+    "key": false,
+    "i": 97,
+    "start": 36.5,
+    "end": 36.86,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 9,
+    "key": false,
+    "i": 98,
+    "start": 36.86,
+    "end": 36.98,
+    "exact": 1.0
+  },
+  {
+    "disp": "contradiction,",
+    "line": 9,
+    "key": true,
+    "i": 99,
+    "start": 36.98,
+    "end": 37.46,
+    "exact": 1.0
+  },
+  {
+    "disp": "ton",
+    "line": 9,
+    "key": false,
+    "i": 100,
+    "start": 37.72,
+    "end": 37.76,
+    "exact": 1.0
+  },
+  {
+    "disp": "opinion",
+    "line": 9,
+    "key": false,
+    "i": 101,
+    "start": 37.76,
+    "end": 38.1,
+    "exact": 1.0
+  },
+  {
+    "disp": "peut",
+    "line": 9,
+    "key": false,
+    "i": 102,
+    "start": 38.1,
+    "end": 38.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "se",
+    "line": 9,
+    "key": false,
+    "i": 103,
+    "start": 38.3,
+    "end": 38.42,
+    "exact": 1.0
+  },
+  {
+    "disp": "rapprocher",
+    "line": 9,
+    "key": false,
+    "i": 104,
+    "start": 38.42,
+    "end": 39.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "de",
+    "line": 9,
+    "key": false,
+    "i": 105,
+    "start": 39.0,
+    "end": 39.14,
+    "exact": 1.0
+  },
+  {
+    "disp": "ce",
+    "line": 9,
+    "key": false,
+    "i": 106,
+    "start": 39.14,
+    "end": 39.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 9,
+    "key": false,
+    "i": 107,
+    "start": 39.22,
+    "end": 39.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "tu",
+    "line": 9,
+    "key": false,
+    "i": 108,
+    "start": 39.33,
+    "end": 39.39,
+    "exact": 0.0
+  },
+  {
+    "disp": "as",
+    "line": 9,
+    "key": false,
+    "i": 109,
+    "start": 39.39,
+    "end": 39.45,
+    "exact": 0.0
+  },
+  {
+    "disp": "raconté.",
+    "line": 9,
+    "key": false,
+    "i": 110,
+    "start": 39.44,
+    "end": 39.88,
+    "exact": 1.0
+  },
+  {
+    "disp": "Comme",
+    "line": 10,
+    "key": false,
+    "i": 111,
+    "start": 40.34,
+    "end": 40.56,
+    "exact": 1.0
+  },
+  {
+    "disp": "si",
+    "line": 10,
+    "key": false,
+    "i": 112,
+    "start": 40.56,
+    "end": 40.68,
+    "exact": 1.0
+  },
+  {
+    "disp": "ton",
+    "line": 10,
+    "key": false,
+    "i": 113,
+    "start": 40.71,
+    "end": 40.83,
+    "exact": 1.0
+  },
+  {
+    "disp": "cerveau",
+    "line": 10,
+    "key": true,
+    "i": 114,
+    "start": 40.8,
+    "end": 41.06,
+    "exact": 1.0
+  },
+  {
+    "disp": "tamponnait :",
+    "line": 10,
+    "key": false,
+    "i": 115,
+    "start": 41.13,
+    "end": 41.64,
+    "exact": 0.0
+  },
+  {
+    "disp": "finalement,",
+    "line": 10,
+    "key": false,
+    "i": 116,
+    "start": 42.02,
+    "end": 42.38,
+    "exact": 1.0
+  },
+  {
+    "disp": "c'était",
+    "line": 10,
+    "key": false,
+    "i": 117,
+    "start": 42.66,
+    "end": 42.94,
+    "exact": 1.0
+  },
+  {
+    "disp": "pas",
+    "line": 10,
+    "key": false,
+    "i": 118,
+    "start": 42.94,
+    "end": 43.06,
+    "exact": 1.0
+  },
+  {
+    "disp": "si",
+    "line": 10,
+    "key": false,
+    "i": 119,
+    "start": 43.11,
+    "end": 43.23,
+    "exact": 1.0
+  },
+  {
+    "disp": "nul.",
+    "line": 10,
+    "key": false,
+    "i": 120,
+    "start": 43.23,
+    "end": 43.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "C'est",
+    "line": 11,
+    "key": false,
+    "i": 121,
+    "start": 44.16,
+    "end": 44.4,
+    "exact": 1.0
+  },
+  {
+    "disp": "la",
+    "line": 11,
+    "key": false,
+    "i": 122,
+    "start": 44.34,
+    "end": 44.5,
+    "exact": 1.0
+  },
+  {
+    "disp": "dissonance",
+    "line": 11,
+    "key": true,
+    "i": 123,
+    "start": 44.5,
+    "end": 45.0,
+    "exact": 1.0
+  },
+  {
+    "disp": "cognitive :",
+    "line": 11,
+    "key": true,
+    "i": 124,
+    "start": 45.0,
+    "end": 45.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "une",
+    "line": 11,
+    "key": false,
+    "i": 125,
+    "start": 46.08,
+    "end": 46.24,
+    "exact": 1.0
+  },
+  {
+    "disp": "tension",
+    "line": 11,
+    "key": false,
+    "i": 126,
+    "start": 46.24,
+    "end": 46.58,
+    "exact": 1.0
+  },
+  {
+    "disp": "entre",
+    "line": 11,
+    "key": false,
+    "i": 127,
+    "start": 46.58,
+    "end": 46.84,
+    "exact": 1.0
+  },
+  {
+    "disp": "des",
+    "line": 11,
+    "key": false,
+    "i": 128,
+    "start": 46.84,
+    "end": 47.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "idées",
+    "line": 11,
+    "key": false,
+    "i": 129,
+    "start": 47.02,
+    "end": 47.32,
+    "exact": 1.0
+  },
+  {
+    "disp": "ou",
+    "line": 11,
+    "key": false,
+    "i": 130,
+    "start": 47.32,
+    "end": 47.46,
+    "exact": 1.0
+  },
+  {
+    "disp": "des",
+    "line": 11,
+    "key": false,
+    "i": 131,
+    "start": 47.46,
+    "end": 47.6,
+    "exact": 1.0
+  },
+  {
+    "disp": "actes",
+    "line": 11,
+    "key": false,
+    "i": 132,
+    "start": 47.6,
+    "end": 47.96,
+    "exact": 1.0
+  },
+  {
+    "disp": "qui",
+    "line": 11,
+    "key": false,
+    "i": 133,
+    "start": 47.96,
+    "end": 48.1,
+    "exact": 1.0
+  },
+  {
+    "disp": "se",
+    "line": 11,
+    "key": false,
+    "i": 134,
+    "start": 48.1,
+    "end": 48.2,
+    "exact": 1.0
+  },
+  {
+    "disp": "contredisent.",
+    "line": 11,
+    "key": false,
+    "i": 135,
+    "start": 48.2,
+    "end": 48.72,
+    "exact": 1.0
+  },
+  {
+    "disp": "Mais",
+    "line": 12,
+    "key": false,
+    "i": 136,
+    "start": 49.32,
+    "end": 49.62,
+    "exact": 1.0
+  },
+  {
+    "disp": "ce",
+    "line": 12,
+    "key": false,
+    "i": 137,
+    "start": 49.62,
+    "end": 49.72,
+    "exact": 1.0
+  },
+  {
+    "disp": "résultat",
+    "line": 12,
+    "key": false,
+    "i": 138,
+    "start": 49.72,
+    "end": 50.08,
+    "exact": 1.0
+  },
+  {
+    "disp": "ne",
+    "line": 12,
+    "key": false,
+    "i": 139,
+    "start": 50.08,
+    "end": 50.16,
+    "exact": 1.0
+  },
+  {
+    "disp": "veut",
+    "line": 12,
+    "key": false,
+    "i": 140,
+    "start": 50.16,
+    "end": 50.22,
+    "exact": 1.0
+  },
+  {
+    "disp": "pas",
+    "line": 12,
+    "key": false,
+    "i": 141,
+    "start": 50.22,
+    "end": 50.34,
+    "exact": 1.0
+  },
+  {
+    "disp": "dire",
+    "line": 12,
+    "key": false,
+    "i": 142,
+    "start": 50.34,
+    "end": 50.46,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 12,
+    "key": false,
+    "i": 143,
+    "start": 50.46,
+    "end": 50.62,
+    "exact": 1.0
+  },
+  {
+    "disp": "tout",
+    "line": 12,
+    "key": false,
+    "i": 144,
+    "start": 50.62,
+    "end": 50.74,
+    "exact": 1.0
+  },
+  {
+    "disp": "le",
+    "line": 12,
+    "key": false,
+    "i": 145,
+    "start": 50.74,
+    "end": 50.8,
+    "exact": 1.0
+  },
+  {
+    "disp": "monde",
+    "line": 12,
+    "key": false,
+    "i": 146,
+    "start": 50.8,
+    "end": 50.9,
+    "exact": 1.0
+  },
+  {
+    "disp": "réagit",
+    "line": 12,
+    "key": false,
+    "i": 147,
+    "start": 50.9,
+    "end": 51.14,
+    "exact": 1.0
+  },
+  {
+    "disp": "pareil.",
+    "line": 12,
+    "key": false,
+    "i": 148,
+    "start": 51.14,
+    "end": 51.44,
+    "exact": 1.0
+  },
+  {
+    "disp": "Et",
+    "line": 13,
+    "key": false,
+    "i": 149,
+    "start": 52.08,
+    "end": 52.16,
+    "exact": 1.0
+  },
+  {
+    "disp": "toi :",
+    "line": 13,
+    "key": false,
+    "i": 150,
+    "start": 52.16,
+    "end": 52.34,
+    "exact": 1.0
+  },
+  {
+    "disp": "tu",
+    "line": 13,
+    "key": false,
+    "i": 151,
+    "start": 52.86,
+    "end": 53.06,
+    "exact": 1.0
+  },
+  {
+    "disp": "défends",
+    "line": 13,
+    "key": false,
+    "i": 152,
+    "start": 53.06,
+    "end": 53.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "ton",
+    "line": 13,
+    "key": false,
+    "i": 153,
+    "start": 53.3,
+    "end": 53.46,
+    "exact": 1.0
+  },
+  {
+    "disp": "choix",
+    "line": 13,
+    "key": true,
+    "i": 154,
+    "start": 53.46,
+    "end": 53.66,
+    "exact": 1.0
+  },
+  {
+    "disp": "parce",
+    "line": 13,
+    "key": false,
+    "i": 155,
+    "start": 53.66,
+    "end": 53.86,
+    "exact": 1.0
+  },
+  {
+    "disp": "qu'il",
+    "line": 13,
+    "key": false,
+    "i": 156,
+    "start": 53.86,
+    "end": 54.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "est",
+    "line": 13,
+    "key": false,
+    "i": 157,
+    "start": 54.02,
+    "end": 54.12,
+    "exact": 1.0
+  },
+  {
+    "disp": "bon,",
+    "line": 13,
+    "key": false,
+    "i": 158,
+    "start": 54.12,
+    "end": 54.3,
+    "exact": 1.0
+  },
+  {
+    "disp": "ou",
+    "line": 13,
+    "key": false,
+    "i": 159,
+    "start": 54.78,
+    "end": 54.87,
+    "exact": 1.0
+  },
+  {
+    "disp": "pour",
+    "line": 13,
+    "key": false,
+    "i": 160,
+    "start": 54.86,
+    "end": 54.98,
+    "exact": 1.0
+  },
+  {
+    "disp": "te",
+    "line": 13,
+    "key": false,
+    "i": 161,
+    "start": 54.98,
+    "end": 55.06,
+    "exact": 1.0
+  },
+  {
+    "disp": "convaincre ?",
+    "line": 13,
+    "key": false,
+    "i": 162,
+    "start": 55.06,
+    "end": 55.48,
+    "exact": 1.0
+  },
+  {
+    "disp": "Parce",
+    "line": 14,
+    "key": false,
+    "i": 163,
+    "start": 56.12,
+    "end": 56.52,
+    "exact": 1.0
+  },
+  {
+    "disp": "que,",
+    "line": 14,
+    "key": false,
+    "i": 164,
+    "start": 56.52,
+    "end": 56.68,
+    "exact": 1.0
+  },
+  {
+    "disp": "dans",
+    "line": 14,
+    "key": false,
+    "i": 165,
+    "start": 56.68,
+    "end": 56.82,
+    "exact": 1.0
+  },
+  {
+    "disp": "cette",
+    "line": 14,
+    "key": false,
+    "i": 166,
+    "start": 56.82,
+    "end": 57.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "expérience,",
+    "line": 14,
+    "key": false,
+    "i": 167,
+    "start": 57.02,
+    "end": 57.62,
+    "exact": 1.0
+  },
+  {
+    "disp": "un",
+    "line": 14,
+    "key": false,
+    "i": 168,
+    "start": 58.0,
+    "end": 58.08,
+    "exact": 1.0
+  },
+  {
+    "disp": "dollar",
+    "line": 14,
+    "key": true,
+    "i": 169,
+    "start": 58.08,
+    "end": 58.36,
+    "exact": 1.0
+  },
+  {
+    "disp": "convainc",
+    "line": 14,
+    "key": true,
+    "i": 170,
+    "start": 58.56,
+    "end": 58.86,
+    "exact": 0.0
+  },
+  {
+    "disp": "mieux",
+    "line": 14,
+    "key": false,
+    "i": 171,
+    "start": 58.92,
+    "end": 59.02,
+    "exact": 1.0
+  },
+  {
+    "disp": "que",
+    "line": 14,
+    "key": false,
+    "i": 172,
+    "start": 59.02,
+    "end": 59.16,
+    "exact": 1.0
+  },
+  {
+    "disp": "vingt.",
+    "line": 14,
+    "key": true,
+    "i": 173,
+    "start": 59.16,
+    "end": 59.3,
+    "exact": 1.0
+  }
+]

@@ -1,0 +1,666 @@
+{
+  "duration": 62.06666666666667,
+  "voice_duration": 61.91354166666667,
+  "fps": 30,
+  "domain": "Économie",
+  "hook_lines": [
+    "UN CENTIME DE MOINS",
+    "ET TON CHOIX CHANGE"
+  ],
+  "hook_duration": 3,
+  "source_short": "Prix zéro · étude Shampanier / Ariely",
+  "shots": [
+    [
+      0,
+      "offers",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      1.2,
+      "zero",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      2.4,
+      "offers",
+      {
+        "free": true,
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      3.566666666666667,
+      "subject",
+      {
+        "img": "chocolate",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      4.733333333333333,
+      "subject",
+      {
+        "img": "chocolate",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      5.9,
+      "offers",
+      {
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      7.066666666666666,
+      "offers",
+      {
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      8.233333333333333,
+      "offers",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      9.4,
+      "offers",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      10.566666666666666,
+      "subject",
+      {
+        "img": "coin_cut",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      11.733333333333333,
+      "offers",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      12.733333333333333,
+      "offers",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      13.733333333333333,
+      "offers",
+      {
+        "free": true,
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      14.733333333333333,
+      "offers",
+      {
+        "free": true,
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      15.733333333333333,
+      "offers",
+      {
+        "free": true,
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      16.733333333333334,
+      "zero",
+      {
+        "zoom": 1,
+        "direction": -1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      17.733333333333334,
+      "zero",
+      {
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      18.733333333333334,
+      "offers",
+      {
+        "free": true,
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      19.966666666666665,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "LE MÊME ÉCART",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      21.233333333333334,
+      "zero",
+      {
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      22.366666666666667,
+      "zero",
+      {
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      23.533333333333335,
+      "brain",
+      {
+        "stamp": "GRATUIT !",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "gold",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      24.7,
+      "brain",
+      {
+        "stamp": "GRATUIT !",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "gold",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      25.866666666666667,
+      "offers",
+      {
+        "free": true,
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      27.0,
+      "offers",
+      {
+        "free": true,
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      28.166666666666668,
+      "offers",
+      {
+        "free": true,
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      29.233333333333334,
+      "offers",
+      {
+        "free": true,
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      30.266666666666666,
+      "subject",
+      {
+        "img": "chocolate",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      31.333333333333332,
+      "zero",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      32.4,
+      "zero",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      33.5,
+      "zero",
+      {
+        "zoom": 1,
+        "direction": 1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      34.6,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      35.7,
+      "subject",
+      {
+        "img": "brain",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      36.766666666666666,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "SHAMPANIER & ARIELY",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      37.96666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "SHAMPANIER & ARIELY",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      39.166666666666664,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "SHAMPANIER & ARIELY",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      40.36666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS TOUJOURS UNE ERREUR",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      41.4,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS TOUJOURS UNE ERREUR",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      42.4,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS TOUJOURS UNE ERREUR",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      43.43333333333333,
+      "subject",
+      {
+        "img": "student",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      44.6,
+      "subject",
+      {
+        "img": "student",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      45.8,
+      "subject",
+      {
+        "img": "chocolate",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      47.0,
+      "offers",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      48.3,
+      "offers",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      49.56666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "TU LE CHOISIRAIS ENCORE ?",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      50.86666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "TU LE CHOISIRAIS ENCORE ?",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      52.166666666666664,
+      "brain",
+      {
+        "stamp": "GRATUIT !",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "gold",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      53.2,
+      "brain",
+      {
+        "stamp": "GRATUIT !",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "gold",
+        "tr": "whip",
+        "rays": true
+      }
+    ],
+    [
+      54.266666666666666,
+      "zero",
+      {
+        "zoom": 1,
+        "direction": 1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      55.333333333333336,
+      "offers",
+      {
+        "free": true,
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      56.6,
+      "offers",
+      {
+        "free": true,
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      57.9,
+      "offers",
+      {
+        "free": true,
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      59.2,
+      "offers",
+      {
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      60.166666666666664,
+      "zero",
+      {
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "red",
+        "tr": "impact",
+        "rays": false
+      }
+    ],
+    [
+      61.1,
+      "offers",
+      {
+        "free": true,
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ]
+  ],
+  "intentional_holds": [],
+  "voice": "Achird",
+  "music_offset": 7.41
+}

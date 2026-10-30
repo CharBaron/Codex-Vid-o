@@ -1,0 +1,43 @@
+name: Serie Le Polymath
+on:
+  push:
+    paths:
+      - '.github/workflows/render-series.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: polymath-series
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        subject: [histoire, psychologie, philosophie, corps-humain, economie, mathematiques]
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Installer FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Installer les dépendances
+        run: python -m pip install -r series/requirements.txt
+      - name: Calculer et contrôler la vidéo
+        env:
+          OPENBLAS_NUM_THREADS: '1'
+          OMP_NUM_THREADS: '1'
+        run: python series/make_video.py '${{ matrix.subject }}'
+      - name: Conserver le résultat
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: polymath-${{ matrix.subject }}
+          path: series/out/${{ matrix.subject }}/
+          if-no-files-found: error
+          retention-days: 3
+          compression-level: 0

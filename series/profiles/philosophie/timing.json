@@ -1,0 +1,793 @@
+{
+  "duration": 69.26666666666667,
+  "voice_duration": 69.11220833333333,
+  "fps": 30,
+  "domain": "Philosophie",
+  "hook_lines": [
+    "DEUX BATEAUX",
+    "UN SEUL ORIGINAL ?"
+  ],
+  "hook_duration": 3,
+  "source_short": "Bateau de Thésée · Plutarque / Hobbes",
+  "shots": [
+    [
+      0,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      1.2333333333333334,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      2.466666666666667,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      3.6666666666666665,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      4.9,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      6.066666666666666,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      7.233333333333333,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      8.4,
+      "subject",
+      {
+        "img": "philo_cut",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      9.6,
+      "subject",
+      {
+        "img": "philo_cut",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      10.766666666666667,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      11.633333333333333,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      12.533333333333333,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      13.4,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      14.433333333333334,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      15.5,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      16.533333333333335,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "TOUJOURS LE MÊME ?",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      17.566666666666666,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "TOUJOURS LE MÊME ?",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      18.633333333333333,
+      "ship",
+      {
+        "phase": "reassemble",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      19.833333333333332,
+      "ship",
+      {
+        "phase": "reassemble",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      21.066666666666666,
+      "ship",
+      {
+        "phase": "reassemble",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      22.3,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      23.5,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      24.733333333333334,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      25.666666666666668,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      26.566666666666666,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      27.466666666666665,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      28.633333333333333,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      29.766666666666666,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      30.933333333333334,
+      "subject",
+      {
+        "img": "brain",
+        "label": "QUI EST LE VRAI ?",
+        "zoom": 0.98,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      32.06666666666667,
+      "subject",
+      {
+        "img": "brain",
+        "label": "QUI EST LE VRAI ?",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      33.233333333333334,
+      "subject",
+      {
+        "img": "brain",
+        "label": "QUI EST LE VRAI ?",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      34.36666666666667,
+      "subject",
+      {
+        "img": "athena_cut",
+        "label": "LE BATEAU DE THÉSÉE",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      35.4,
+      "subject",
+      {
+        "img": "athena_cut",
+        "label": "LE BATEAU DE THÉSÉE",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      36.43333333333333,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      37.46666666666667,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "PLUTARQUE",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      38.7,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "PLUTARQUE",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      39.93333333333333,
+      "ship",
+      {
+        "phase": "reassemble",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      41.166666666666664,
+      "ship",
+      {
+        "phase": "reassemble",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      42.4,
+      "subject",
+      {
+        "img": "athena_cut",
+        "label": "HOBBES",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      43.63333333333333,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS DE RÉPONSE UNIQUE",
+        "zoom": 0.94,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      44.7,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS DE RÉPONSE UNIQUE",
+        "zoom": 1.08,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      45.766666666666666,
+      "subject",
+      {
+        "img": "philo_cut",
+        "stamp": "PAS DE RÉPONSE UNIQUE",
+        "zoom": 1,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      46.86666666666667,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      48.0,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      49.13333333333333,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      50.266666666666666,
+      "subject",
+      {
+        "img": "brain",
+        "label": "QUEL CRITÈRE ?",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      51.4,
+      "subject",
+      {
+        "img": "brain",
+        "label": "QUEL CRITÈRE ?",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      52.53333333333333,
+      "subject",
+      {
+        "img": "brain",
+        "label": "QUEL CRITÈRE ?",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      53.666666666666664,
+      "subject",
+      {
+        "img": "mask",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      54.766666666666666,
+      "subject",
+      {
+        "img": "mask",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      55.86666666666667,
+      "subject",
+      {
+        "img": "mask",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      56.93333333333333,
+      "subject",
+      {
+        "img": "student",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      58.03333333333333,
+      "subject",
+      {
+        "img": "student",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      59.13333333333333,
+      "subject",
+      {
+        "img": "student",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      60.2,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "DÉFINIR « LE MÊME »",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      61.233333333333334,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "DÉFINIR « LE MÊME »",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      62.233333333333334,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "DÉFINIR « LE MÊME »",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      63.233333333333334,
+      "subject",
+      {
+        "img": "philo_cut",
+        "label": "DÉFINIR « LE MÊME »",
+        "zoom": 0.98,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      64.26666666666667,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      65.16666666666667,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      66.06666666666666,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 0.94,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      67.13333333333334,
+      "ship",
+      {
+        "phase": "replace",
+        "zoom": 1.08,
+        "direction": -1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ],
+    [
+      68.2,
+      "ship",
+      {
+        "phase": "duel",
+        "zoom": 1,
+        "direction": 1,
+        "bg": "black",
+        "tr": "whip",
+        "rays": false
+      }
+    ]
+  ],
+  "intentional_holds": [],
+  "voice": "Achird",
+  "music_offset": 7.41
+}
